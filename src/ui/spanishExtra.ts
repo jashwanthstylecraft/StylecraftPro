@@ -26,4 +26,5 @@ export const SPANISH_EXTRA: Record<string, string> = {
   'RELOAD': 'RECARGAR',
   'A new version is ready.': 'Hay una nueva versión disponible.',
   'UPDATE': 'ACTUALIZAR',
+  'Local mode: not connected to the team sheet': 'Modo local: sin conexión con la hoja del equipo',
 }

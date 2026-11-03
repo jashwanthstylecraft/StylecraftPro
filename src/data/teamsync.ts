@@ -25,7 +25,16 @@ const scriptUrl = () => AppPrefs.teamScriptUrl.get().trim() || CatalogConfig.TEA
 /** Requests whose answer we don't need to read: when the browser blocks the reply (CORS) we still deliver them. */
 const FIRE_AND_FORGET = new Set(['measurement', 'leads'])
 
+// TEMPORARY local login (remove once the team sheet is accessible): signs in without the team sheet.
+// While signed in this way nothing is sent to the team script (leads stay on this browser, documents are unavailable).
+const TEMP_USER = 'jashwanthd@stylecraftus.com', TEMP_PASSWORD = '123456', TEMP_TOKEN = 'TEMP-LOCAL-SESSION'
+
 async function request(body: TeamJson, readTimeoutMs = 20000): Promise<Reply> {
+  if (AppPrefs.sessionToken.get() === TEMP_TOKEN) {
+    return body.type === 'session'
+      ? { result: { kind: 'ok', message: 'Local session' }, json: { ok: true } }
+      : { result: { kind: 'failed', reason: 'Local mode: not connected to the team sheet' }, json: null }
+  }
   const url = scriptUrl()
   if (!url) return { result: { kind: 'notConfigured' }, json: null }
   const payload: TeamJson = { ...body, key: AppPrefs.teamKey.get() }
@@ -72,6 +81,10 @@ export const TeamSync = {
 
   /** Signs a rep in with the user name and password from the "Users" tab. Needs internet the first time. */
   async login(user: string, password: string): Promise<LoginResult> {
+    if (user.trim().toLowerCase() === TEMP_USER && password === TEMP_PASSWORD) { // TEMPORARY local login
+      AppPrefs.setSession(TEMP_USER, TEMP_TOKEN, false, 'Jashwanth', '', '')
+      return { kind: 'ok', mustChangePassword: false }
+    }
     const r = await request({ type: 'login', user: user.trim(), token: '', password })
     const j = r.json
     if (r.result.kind === 'ok' && j && String(j.token ?? '') !== '') {
