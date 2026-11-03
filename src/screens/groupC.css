@@ -1,0 +1,25 @@
+/* Shared by LeadsScreen / AccessoriesScreen / FamiliesScreen (group C). */
+
+/* horizontally scrolling row (LazyRow) */
+.c-hrow { display: flex; gap: 12px; overflow-x: auto; overflow-y: hidden; padding: 0 16px; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+.c-hrow::-webkit-scrollbar { display: none; }
+.c-hrow > * { flex: 0 0 auto; }
+
+/* Material FilterChip: 32px high, 8px radius, outlined; filled with --chip when selected */
+.c-chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.c-chips::-webkit-scrollbar { display: none; }
+.c-chip {
+  --chip: var(--cyan); flex: 0 0 auto; display: inline-flex; align-items: center; gap: 6px; height: 32px; padding: 0 12px;
+  border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.3); background: transparent; color: #e6e6e6;
+  font-size: 14px; font-weight: 700; white-space: nowrap; transition: background 120ms, color 120ms;
+}
+.c-chip.sel { background: var(--chip); border-color: var(--chip); color: #000; }
+.c-chip .icon { width: 16px; height: 16px; }
+
+/* small uppercase section label */
+.c-label { font-size: 12px; font-weight: 900; letter-spacing: 2px; margin: 0; }
+
+.acc-hero {
+  margin: 0 16px; aspect-ratio: 1.1; border-radius: 24px; background: var(--photo-bg); padding: 20px;
+  display: flex; align-items: center; justify-content: center; max-height: 60vh;
+}

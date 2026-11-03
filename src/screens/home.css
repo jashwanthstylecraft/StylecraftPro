@@ -1,0 +1,57 @@
+/* HomeScreen.kt */
+.home { position: relative; height: 100%; width: 100%; overflow: hidden; background: #000; }
+.home-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; max-width: none; }
+.home-scroll { position: absolute; inset: 0; overflow-y: auto; overflow-x: hidden; -webkit-overflow-scrolling: touch; display: flex; flex-direction: column; align-items: center; }
+.home-scroll > * { width: 100%; }
+.home-wide { position: absolute; inset: 0; display: flex; flex-direction: row; gap: 28px; padding: 24px 28px; }
+.home-wide > .home-col { height: 100%; overflow-y: auto; overflow-x: hidden; display: flex; flex-direction: column; min-width: 0; }
+.home-wide > .home-col.left { flex: 1.45 1 0; align-items: center; }
+.home-wide > .home-col.right { flex: 1 1 0; }
+.home-wide > .home-col > * { width: 100%; }
+
+.home-title { color: #fff; font-size: 28px; font-weight: 900; letter-spacing: 4px; text-align: center; line-height: 1.25; }
+.home-tag { color: var(--red); font-size: 12px; font-weight: 700; letter-spacing: 2px; text-align: center; }
+
+/* thin line with a light sweeping across it, like a scanner */
+.home-scan { position: relative; margin: 10px auto 0; width: 160px !important; height: 2px; background: rgba(255, 255, 255, 0.12); overflow: hidden; }
+.home-scan::after {
+  content: ''; position: absolute; top: 0; bottom: 0; width: 35%; left: -35%;
+  background: linear-gradient(90deg, transparent, var(--red), var(--cyan), transparent);
+  animation: home-sweep 2400ms linear infinite;
+}
+@keyframes home-sweep { from { left: -35%; } to { left: 100%; } }
+
+/* gradient outline that stays transparent inside (Brush.linearGradient border) */
+.home-outline { position: relative; background: rgba(0, 0, 0, 0.65); }
+.home-outline::before {
+  content: ''; position: absolute; inset: 0; border-radius: inherit; padding: 1px; pointer-events: none;
+  background: linear-gradient(135deg, var(--ga), var(--gb, transparent));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor; mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+}
+
+.home-search { display: flex; align-items: center; gap: 12px; width: 100%; height: 52px; border-radius: 16px; padding: 0 16px; color: var(--muted); font-size: 14px; text-align: left; border: 0; font: inherit; font-size: 14px; }
+.home-search > .icon { color: var(--cyan); }
+.home-search span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.home-label { color: var(--muted); font-size: 12px; font-weight: 900; letter-spacing: 2px; padding: 0 0 10px 4px; width: 100%; text-align: left; }
+
+.home-tiles { display: grid; gap: 12px; width: 100%; margin-bottom: 12px; }
+.home-tile { display: flex; flex-direction: column; justify-content: space-between; height: 150px; width: 100%; border-radius: 20px; padding: 16px; text-align: left; border: 0; color: #fff; font: inherit; }
+.home-tile .ico { width: 60px; height: 60px; border-radius: 16px; display: flex; align-items: center; justify-content: center; }
+.home-tile .name { font-weight: 900; line-height: 17px; letter-spacing: 1px; }
+.home-tile .count { color: var(--muted); font-size: 12px; font-weight: 700; }
+
+.home-action { display: flex; align-items: center; width: 100%; height: 88px; border-radius: 20px; padding: 0 18px; text-align: left; border: 0; color: #fff; font: inherit; }
+.home-action .ico { width: 48px; height: 48px; border-radius: 12px; display: flex; align-items: center; justify-content: center; flex: 0 0 auto; }
+.home-action .txt { flex: 1 1 0; min-width: 0; margin: 0 16px; }
+.home-action .ttl { font-size: 16px; font-weight: 900; letter-spacing: 1px; }
+.home-action .sub { color: var(--muted); font-size: 13px; }
+.home-action .chev { color: gray; flex: 0 0 auto; }
+
+.home-settings {
+  position: absolute; top: 8px; right: 8px; width: 52px; height: 52px; border-radius: 50%; border: 0; z-index: 5;
+  background: rgba(0, 0, 0, 0.45); color: #fff; display: flex; align-items: center; justify-content: center; padding: 0;
+}
+.home-settings:active { background: rgba(0, 0, 0, 0.7); }
+.home-settings .icon { width: 28px; height: 28px; }

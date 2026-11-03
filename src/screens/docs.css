@@ -1,0 +1,7 @@
+.doc-row { padding: 8px 0; cursor: pointer; align-items: center; }
+.doc-row:hover { background: rgba(255, 255, 255, 0.03); }
+.doc-title {
+  color: #fff; font-size: 14px; font-weight: 700; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.pdf-viewer { position: fixed; inset: 0; z-index: 60; background: #000; display: flex; flex-direction: column; padding: var(--safe-top) var(--safe-right) var(--safe-bottom) var(--safe-left); }
+.pdf-viewer .icon-btn { text-decoration: none; }

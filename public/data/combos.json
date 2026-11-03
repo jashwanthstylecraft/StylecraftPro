@@ -1,0 +1,159 @@
+{
+ "version": 1,
+ "updated": "2026-10-14",
+ "combos": [
+  {
+   "id": "stylecraft-rebel-combo-set",
+   "brand": "Stylecraft",
+   "name": "Rebel Combo Set - Professional Hair Clipper & Hair Trimmer",
+   "model": "SC203R",
+   "items": [
+    "rebel-trimmer"
+   ],
+   "extraItems": [
+    "Rebel (original, super-torque rotary) cordless clipper",
+    "Clipper charging stand",
+    "Trimmer charging stand",
+    "4 tight dub magnetic guards",
+    "Tight/stretch taper bracket kits"
+   ],
+   "contents": "Rebel cordless clipper (4 tight dub magnetic guards 1/16\"-1/4\", charging stand) plus Rebel trimmer (charging stand), each with micro-USB cord, zero-gap/mini screwdriver tools and cleaning kit.",
+   "priceUsd": 189.95,
+   "salePriceUsd": null,
+   "buyUrl": "https://stylecraftus.com/products/rebel-combo-set-professional-cordless-hair-clipper-hair-trimmer-set-with-super-torque-motor",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/RebelRedCombo_SC203R_Main.jpg?v=1785274114",
+   "upc": [
+    "810069132266"
+   ],
+   "features": [
+    "Super-torque rotary clipper motor up to 7,200 RPM",
+    "Trimmer motor up to 7,500 SPM",
+    "Black Diamond Faper fixed blade + deep tooth slim cutter (clipper)",
+    "X-Pro Wide fixed blade + \"The One\" cutter (trimmer)",
+    "Up to 180 min runtime, micro-USB charging",
+    "Click, spring-click or freestyle taper"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/rebel-combo-set-professional-cordless-hair-clipper-hair-trimmer-set-with-super-torque-motor.json"
+  },
+  {
+   "id": "stylecraft-super-set-rebel-flex",
+   "brand": "Stylecraft",
+   "name": "Super Set - Rebel Hair Clipper & Flex Cordless Hair Trimmer",
+   "model": "SC326B",
+   "items": [
+    "flex-trimmer"
+   ],
+   "extraItems": [
+    "Rebel (original, super-torque rotary) cordless clipper",
+    "Travel case",
+    "4 double magnetic tight guards",
+    "3 trimmer combs",
+    "Micro-USB cords and adaptors"
+   ],
+   "contents": "Rebel cordless clipper with 4 double magnetic guards (#0-#2) and Flex cordless trimmer with 3 combs (1.5/4.5/6 mm), packed in a small travel case with micro-USB cords and adaptors.",
+   "priceUsd": 199.95,
+   "salePriceUsd": null,
+   "buyUrl": "https://stylecraftus.com/products/super-set-rebel-cordless-hair-clipper-flex-cordless-hair-trimmer-set-with-super-torque-rotary-motor",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/616s1FQTFvL._SL1500__2.jpg?v=1784810819",
+   "upc": [],
+   "features": [
+    "Super-torque rotary clipper motor up to 7,200 RPM",
+    "Gold Titanium Faper fixed blade + Black Diamond slim deep tooth cutter",
+    "Flex trimmer: Gold Titanium X-Pro Classic blade + \"The One\" DLC cutter",
+    "Includes travel case",
+    "Micro-USB charging, worldwide adaptors"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/super-set-rebel-cordless-hair-clipper-flex-cordless-hair-trimmer-set-with-super-torque-rotary-motor.json"
+  },
+  {
+   "id": "stylecraft-rogue-combo-set",
+   "brand": "Stylecraft",
+   "name": "Rogue Combo Set - Professional Hair Clipper & Trimmer",
+   "model": "SC201N",
+   "items": [
+    "rogue-clipper"
+   ],
+   "extraItems": [
+    "Rogue trimmer",
+    "Guards",
+    "Chargers",
+    "Oil, brush and tools"
+   ],
+   "contents": "Rogue magnetic-motor clipper and Rogue trimmer with guards, chargers, oil, brush and tools (charging base and modular lids sold separately).",
+   "priceUsd": 219.95,
+   "salePriceUsd": null,
+   "buyUrl": "https://stylecraftus.com/products/rogue-combo-set-professional-cordless-hair-clipper-trimmer-with-9v-magnetic-motor",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/51ns07XWG0L._SL1200__1.jpg?v=1784810665",
+   "upc": [
+    "810069130507"
+   ],
+   "features": [
+    "9V linear magnetic motor up to 10,000 SPM",
+    "Click lever taper, zero-gappable blade",
+    "Up to 120 min runtime",
+    "Double Black Diamond Carbon DLC Fade blade (clipper)",
+    "X-Pro Wide Gold Titanium blade + Black Diamond deep tooth cutter (trimmer)"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/rogue-combo-set-professional-cordless-hair-clipper-trimmer-with-9v-magnetic-motor.json"
+  },
+  {
+   "id": "stylecraft-protege-combo",
+   "brand": "Stylecraft",
+   "name": "Protégé Combo - Professional Cordless Hair Clipper & Trimmer",
+   "model": "SCPCPMB",
+   "items": [
+    "protege",
+    "protege-trimmer"
+   ],
+   "extraItems": [],
+   "contents": "Protégé cordless clipper (with universal 4-hole modification bracket) and Protégé cordless trimmer with removable drop-top and micro-USB chargers (charging stand sold separately).",
+   "priceUsd": 179.95,
+   "salePriceUsd": null,
+   "buyUrl": "https://stylecraftus.com/products/protege-combo-professional-cordless-hair-clipper-hair-trimmer-combo-with-turbocharged-rotary-motor",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/51I64ISPKVL._SL1080.jpg?v=1784811231",
+   "upc": [
+    "850022298264"
+   ],
+   "features": [
+    "Turbocharged rotary motor up to 7,000 RPM",
+    "Japanese stainless steel blades, zero-gap adjustable",
+    "Up to 240 min runtime, ~2 h charge",
+    "Micro-USB charging",
+    "Universal 4-hole bracket for most fixed blades"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/protege-combo-professional-cordless-hair-clipper-hair-trimmer-combo-with-turbocharged-rotary-motor.json"
+  },
+  {
+   "id": "combo-gamma-protege",
+   "brand": "Gamma+",
+   "name": "Protégé Combo - Professional Cordless Hair Clipper & Trimmer",
+   "model": "GP1HACB",
+   "items": [],
+   "extraItems": [
+    "Gamma+ Protégé clipper",
+    "Gamma+ Protégé trimmer",
+    "5 black magnetic guards",
+    "Cleaning/maintenance kit",
+    "Blade covers",
+    "Axis shield"
+   ],
+   "contents": "Gamma+ Protégé clipper (DLC Faper blade, 5 magnetic guards 1/16\"-1/2\", cord/adapter, cleaning kit, blade cover) and Protégé trimmer (DLC X-Pro Wide blade, \"The One\" cutter, cord/adapter, axis shield, blade cover).",
+   "priceUsd": 179.95,
+   "salePriceUsd": null,
+   "buyUrl": "https://stylecraftus.com/products/gamma-protege-combo-clipper-and-trimmer",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/61Ljx4amS5L._SL1500__1.jpg?v=1784811521",
+   "upc": [
+    "850014553784"
+   ],
+   "features": [
+    "Supercharged rotary motors up to 6,000 RPM",
+    "Up to 3 h lithium-ion runtime",
+    "Black Diamond DLC blades, zero-gappable",
+    "5-position click lever taper (clipper)",
+    "Removable drop-top trimmer",
+    "Low noise and vibration"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gamma-protege-combo-clipper-and-trimmer.json"
+  }
+ ]
+}

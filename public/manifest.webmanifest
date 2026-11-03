@@ -1,0 +1,15 @@
+{
+  "name": "Stylecraft Pro",
+  "short_name": "Stylecraft Pro",
+  "description": "Field Sales Suite",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B0B0B",
+  "theme_color": "#0B0B0B",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

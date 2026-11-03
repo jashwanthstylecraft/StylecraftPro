@@ -1,0 +1,15 @@
+.vs-badge {
+  width: 40px; height: 40px; flex: 0 0 auto; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.25);
+  display: flex; align-items: center; justify-content: center; color: #fff; font-weight: 900;
+}
+.cmp-track { width: 100%; height: 6px; border-radius: 3px; background: rgba(255, 255, 255, 0.06); overflow: hidden; }
+.cmp-bar { height: 100%; transition: width 1200ms cubic-bezier(0.4, 0, 0.2, 1); }
+.moving-grid {
+  position: absolute; inset: 0; pointer-events: none; animation: grid-drift 3200ms linear infinite;
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+@keyframes grid-drift { from { background-position: 0 0; } to { background-position: 40px 40px; } }
+@media (prefers-reduced-motion: reduce) { .moving-grid { animation: none; } }

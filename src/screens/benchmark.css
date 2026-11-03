@@ -1,0 +1,27 @@
+.chip-row { display: flex; gap: 8px; overflow-x: auto; padding: 0 16px; scrollbar-width: none; }
+.chip-row::-webkit-scrollbar { display: none; }
+.chip {
+  display: inline-flex; align-items: center; gap: 8px; height: 32px; padding: 0 12px; flex: 0 0 auto; border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.3); background: transparent; color: #fff; font-size: 14px; font-weight: 500; white-space: nowrap;
+}
+.chip.selected { border-color: transparent; }
+.chip.selected-red { background: var(--red); border-color: transparent; color: #fff; }
+.chip.selected-cyan { background: var(--cyan); border-color: transparent; color: #000; }
+
+.switch {
+  position: relative; width: 52px; height: 32px; flex: 0 0 auto; border-radius: 16px; border: 2px solid #938f99; background: #36343b;
+  transition: background 160ms, border-color 160ms;
+}
+.switch .thumb {
+  position: absolute; top: 50%; left: 6px; width: 16px; height: 16px; border-radius: 50%; background: #938f99;
+  transform: translateY(-50%); transition: left 160ms, width 160ms, height 160ms, background 160ms;
+}
+.switch.on { background: var(--lime); border-color: var(--lime); }
+.switch.on .thumb { left: 22px; width: 24px; height: 24px; background: #000; }
+
+.bar-col { min-width: 0; height: 100%; }
+.bar { border-radius: 8px 8px 0 0; transition: height 600ms cubic-bezier(0.4, 0, 0.2, 1); }
+.bar-name {
+  color: #fff; font-size: 10px; line-height: 12px; height: 38px; text-align: center; overflow: hidden; max-width: 100%;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; word-break: break-word;
+}

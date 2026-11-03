@@ -1,0 +1,19 @@
+/* SettingsScreen.kt */
+.set-section { margin: 8px 16px; background: var(--card); border: 1px solid var(--card-border); border-radius: 18px; padding: 16px; }
+.set-title { color: var(--cyan); font-size: 12px; font-weight: 900; letter-spacing: 2px; margin: 0 0 10px; }
+.set-note { color: gray; font-size: 13px; }
+.set-note.sm { font-size: 12px; }
+.set-status { color: var(--lime); font-size: 13px; padding-top: 8px; }
+.set-count { color: var(--muted); font-size: 12px; padding-top: 8px; }
+.set-row { display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; align-items: center; }
+.set-gap { height: 10px; } .set-gap6 { height: 6px; }
+.set-btn { border-radius: 20px; padding: 0 24px; min-height: 40px; }
+.set-chip {
+  height: 32px; padding: 0 16px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.38); background: transparent;
+  color: #cac4d0; font-size: 14px; font-weight: 500;
+}
+.set-chip.on { background: #4a4458; border-color: transparent; color: #e8def8; }
+.set-signout { border-color: var(--red); color: var(--red); }
+.set-white { color: #fff; font-weight: 700; }
+.set-field-gap { margin-top: 6px; }
+.set-pad { padding-bottom: 40px; }

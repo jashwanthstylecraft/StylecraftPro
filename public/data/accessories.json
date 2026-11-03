@@ -1,0 +1,3256 @@
+{
+ "version": 1,
+ "updated": "2026-10-13",
+ "accessories": [
+  {
+   "id": "stylecraft-black-dlc-diamond-cut-clipper-blade-shallow-tooth-2-0-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Diamond Cut Clipper Blade & Shallow Tooth 2.0 Cutter",
+   "type": "BLADE",
+   "model": "SC540B",
+   "material": "DLC fixed blade, ceramic cutter",
+   "size": "Clipper blade set (Diamond Cut taper fixed + Shallow Tooth 2.0 cutter)",
+   "color": "Black",
+   "features": [
+    "Diamond Cut taper blade lifts hair for bulk cutting",
+    "Shallow Tooth 2.0 moving blade",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-diamond-cut-clipper-blade-and-shallow-tooth-2-0-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC540B.webp?v=1785791424",
+   "upc": [
+    "810069132471"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-diamond-cut-clipper-blade-and-shallow-tooth-2-0-cutter-1"
+  },
+  {
+   "id": "stylecraft-black-dlc-diamond-cut-wide-trimmer-blade-the-one-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Diamond Cut Wide Trimmer Blade & \"The One\" Cutter",
+   "type": "BLADE",
+   "model": "SC541B",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Trimmer blade set (Diamond Cut wide)",
+   "color": "Black",
+   "features": [
+    "Diamond Cut pattern guides hair into the cutter",
+    "Beveled \"The One\" cutter, less pulling",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-diamond-cut-wide-trimmer-blade-and-the-one-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC541B_a5fa4906-f41b-4fe1-8f4a-0ee062a6604e.jpg?v=1785809268",
+   "upc": [
+    "810069132488"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-diamond-cut-wide-trimmer-blade-and-the-one-cutter-1"
+  },
+  {
+   "id": "stylecraft-black-dlc-echo-clipper-blade-blue-ceramic-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Echo Clipper Blade & Blue Ceramic Cutter",
+   "type": "BLADE",
+   "model": "SC554B",
+   "material": "DLC-coated fixed blade, ceramic cutter",
+   "size": "Clipper blade set (Echo fixed + ceramic cutter)",
+   "color": "Black / Blue",
+   "features": [
+    "Echo fixed blade for a louder crunch",
+    "Ceramic cutter stays sharp and runs cooler",
+    "Rust-proof, self-sharpening DLC",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 64.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-echo-clipper-blade-and-blue-ceramic-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/71gFI4sX_1L.jpg?v=1785808806",
+   "upc": [
+    "810069134598"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-echo-clipper-blade-and-blue-ceramic-cutter"
+  },
+  {
+   "id": "stylecraft-black-dlc-echo-clipper-blade-echo-deep-tooth-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Echo Clipper Blade & Echo Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "SC545BL",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Clipper blade set (Echo fixed + Echo Deep Tooth cutter)",
+   "color": "Black",
+   "features": [
+    "Echo fixed blade with deeper ridges",
+    "Deep Tooth cutter with wider spacing, less pulling",
+    "Self-sharpening, runs cooler",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 59.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-echo-clipper-blade-and-echo-deep-tooth-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/71Yd8DqjzUL.jpg?v=1785791085",
+   "upc": [
+    "810069133690"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-echo-clipper-blade-and-echo-deep-tooth-cutter-1"
+  },
+  {
+   "id": "stylecraft-black-dlc-echo-clipper-blade-shallow-tooth-2-0-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Echo Clipper Blade & Shallow Tooth 2.0 Cutter",
+   "type": "BLADE",
+   "model": "SC544B",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Clipper blade set (Echo fixed + Shallow Tooth 2.0 cutter)",
+   "color": "Black",
+   "features": [
+    "Echo blade: thinner, deeper ridges for a louder crunch",
+    "Shallow Tooth 2.0 spacing feeds hair efficiently",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 59.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-echo-clipper-blade-and-shallow-tooth-2-0-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/61I_1uyEO0L.jpg?v=1785791335",
+   "upc": [
+    "810069132914"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-echo-clipper-blade-and-shallow-tooth-2-0-cutter-1"
+  },
+  {
+   "id": "stylecraft-black-dlc-echo-taper-clipper-blade-deep-tooth-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Echo Taper Clipper Blade & Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "SC553B",
+   "material": "DLC (Diamond Carbon)",
+   "size": "Clipper blade set (Echo Taper fixed + Deep Tooth cutter)",
+   "color": "Black",
+   "features": [
+    "Taper tips angle down to lift hair",
+    "Deep Tooth cutter for bulk removal",
+    "Rust-proof, self-sharpening",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"designed for compatibility with most GAMMA+ and StyleCraft clippers\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 59.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-echo-taper-clipper-blade-and-deep-tooth-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC553B_d6acfcf1-f9b7-486a-803d-bd07b0c51ab8.jpg?v=1785791181",
+   "upc": [
+    "810069134475"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-echo-taper-clipper-blade-and-deep-tooth-cutter"
+  },
+  {
+   "id": "stylecraft-black-dlc-fade-clipper-blade-shallow-tooth-2-0-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Fade Clipper Blade & Shallow Tooth 2.0 Cutter",
+   "type": "BLADE",
+   "model": "SC534B",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Clipper blade set (Fade fixed + Shallow Tooth 2.0 cutter)",
+   "color": "Black",
+   "features": [
+    "Flat fade blade for fading and blending",
+    "Shallow Tooth 2.0 spacing for smoother feeding",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-fade-clipper-blade-and-shallow-tooth-2-0-cutter-2",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC534B_6039b693-ce62-41dd-ab4c-d349999657b7.jpg?v=1785795004",
+   "upc": [
+    "810069131917"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-fade-clipper-blade-and-shallow-tooth-2-0-cutter-2"
+  },
+  {
+   "id": "stylecraft-black-dlc-faper-clipper-blade-slim-deep-tooth-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Faper Clipper Blade & Slim Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "SC520B",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Clipper blade set (Faper fixed + Slim Deep Tooth cutter)",
+   "color": "Black",
+   "features": [
+    "Faper = fade/taper hybrid with ridges",
+    "Lighter Slim Deep Tooth cutter for debulking",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-faper-clipper-blade-and-slim-deep-tooth-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/61J_9gAZ_nL.jpg?v=1785808962",
+   "upc": [
+    "810069131481"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-faper-clipper-blade-and-slim-deep-tooth-cutter-1"
+  },
+  {
+   "id": "stylecraft-black-dlc-taper-clipper-blade-shallow-tooth-2-0-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC Taper Clipper Blade & Shallow Tooth 2.0 Cutter",
+   "type": "BLADE",
+   "model": "SC539B",
+   "material": "DLC (Black Diamond Carbon) blade and cutter",
+   "size": "Clipper blade set (Taper fixed + Shallow Tooth 2.0 cutter)",
+   "color": "Black",
+   "features": [
+    "Taper tips slope down to lift hair for bulk cutting",
+    "Shallow Tooth 2.0 cutter, less pulling",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-taper-clipper-blade-and-shallow-tooth-2-0-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC539B.webp?v=1785791469",
+   "upc": [
+    "810069133706"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-taper-clipper-blade-and-shallow-tooth-2-0-cutter-1"
+  },
+  {
+   "id": "stylecraft-black-dlc-x-pro-wide-trimmer-blade-the-one-cutter",
+   "brand": "Stylecraft",
+   "name": "Black DLC X-Pro Wide Trimmer Blade & \"The One\" Cutter",
+   "type": "BLADE",
+   "model": "SC536B",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Trimmer blade 41 mm (X-Pro Wide)",
+   "color": "Black",
+   "features": [
+    "Wide blade for large surfaces and bulk trimming",
+    "Convex and hollow grinding",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-x-pro-wide-trimmer-blade-and-the-one-cutter-2",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC536B_5e2857a0-2ecb-487e-b8bb-928b349a1dc9.webp?v=1785793559",
+   "upc": [
+    "810069132068"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-x-pro-wide-trimmer-blade-and-the-one-cutter-2"
+  },
+  {
+   "id": "stylecraft-gold-titanium-double-foil-echo-cutters-for-the-absolute-zero-shaver",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium Double Foil & Echo Cutters for the Absolute Zero Shaver",
+   "type": "BLADE",
+   "model": "SC551G",
+   "material": "Gold titanium foil",
+   "size": "Double foil head + 2 Echo cutters",
+   "color": null,
+   "features": [
+    "One foil head and two Echo cutters",
+    "Gentle on sensitive skin",
+    "Tool-free replacement"
+   ],
+   "fits": [
+    "absolute-zero"
+   ],
+   "fitsText": "Fits the Stylecraft Absolute Zero Double Foil Shaver",
+   "priceUsd": 20.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-the-absolute-zero-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/71wdDCYX3BL.jpg?v=1785797554",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-the-absolute-zero-shaver-1"
+  },
+  {
+   "id": "stylecraft-gold-titanium-double-foil-echo-cutters-for-the-instinct-shaver",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium Double Foil & Echo Cutters for the Instinct Shaver",
+   "type": "BLADE",
+   "model": "SC542B",
+   "material": "Gold titanium foil, stainless steel forged cutters",
+   "size": "Double foil head + cutters",
+   "color": "Gold",
+   "features": [
+    "Independently moving cutters adapt to skin",
+    "Fewer nicks and cuts",
+    "Rinse-clean"
+   ],
+   "fits": [
+    "instinct-shaver"
+   ],
+   "fitsText": "Fits the Stylecraft Instinct Shaver only",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-the-instinct-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC542B_InstinctShaver_Foil_cutters_main_2.jpg?v=1785797889",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-the-instinct-shaver-1"
+  },
+  {
+   "id": "stylecraft-gold-titanium-double-foil-and-echo-cutters-for-rebel-foil-shaver",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium Double Foil and Echo Cutters for Rebel Foil Shaver",
+   "type": "BLADE",
+   "model": "SC555G",
+   "material": "Gold titanium foil",
+   "size": "Double foil head + Echo cutters",
+   "color": "Gold",
+   "features": [
+    "All-in-one foil head and cutters",
+    "Gentle on sensitive skin",
+    "Crunchy Echo cutters for bald fades and detail"
+   ],
+   "fits": [
+    "rebel-shaver"
+   ],
+   "fitsText": "Fits the Stylecraft Rebel Foil Shaver",
+   "priceUsd": 31.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-rebel-foil-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC555G_fcca5722-a3a5-4ed9-b0e0-363770590617.jpg?v=1785796749",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-rebel-foil-shaver-1"
+  },
+  {
+   "id": "stylecraft-gold-titanium-fade-clipper-blade-slim-deep-tooth-cutter",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium Fade Clipper Blade & Slim Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "SC521G",
+   "material": "Gold titanium",
+   "size": "Clipper blade set (Fade fixed + Slim Deep Tooth cutter)",
+   "color": "Gold",
+   "features": [
+    "Flat-surface fade blade for blending the zero guide line",
+    "Gold titanium suited to sensitive skin",
+    "Lighter Slim Deep Tooth cutter",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-fade-clipper-blade-and-slim-deep-tooth-cutter-2",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC521G_f7ee410b-356a-44b8-bafc-f1483253c17e.webp?v=1785795581",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-fade-clipper-blade-and-slim-deep-tooth-cutter-2"
+  },
+  {
+   "id": "stylecraft-gold-titanium-faper-clipper-blade-slim-deep-tooth-cutter",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium Faper Clipper Blade & Slim Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "SC525G",
+   "material": "Gold titanium",
+   "size": "Clipper blade set (Faper fixed + Slim Deep Tooth cutter)",
+   "color": "Gold",
+   "features": [
+    "Faper blade thinner than a standard taper",
+    "Gold titanium suited to sensitive skin",
+    "Slim Deep Tooth cutter for efficient debulking",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-faper-clipper-blade-and-slim-deep-tooth-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC525G_53d553cd-f7f0-40be-9a53-40e2152dd126.webp?v=1785795356",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-faper-clipper-blade-and-slim-deep-tooth-cutter-1"
+  },
+  {
+   "id": "stylecraft-gold-titanium-single-foil-with-echo-forged-cutters-for-the-uno-2-0-shaver",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium Single Foil with Echo & Forged Cutters for the Uno 2.0 Shaver",
+   "type": "BLADE",
+   "model": "SC549B",
+   "material": "Gold titanium foil, forged cutters",
+   "size": "Single foil head + Echo and Forged cutters",
+   "color": "Gold",
+   "features": [
+    "Ultra-close shave for face, neck and scalp",
+    "Gentle on sensitive skin",
+    "All-in-one foil and cutter set"
+   ],
+   "fits": [
+    "uno-2"
+   ],
+   "fitsText": "Fits the Stylecraft Uno 2.0 Single Foil Shaver",
+   "priceUsd": 24.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-with-echo-and-forged-cutters-for-the-uno-2-0-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC549B_e8641db8-ee54-4ae8-9090-68d1ca358274.jpg?v=1785799659",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-with-echo-and-forged-cutters-for-the-uno-2-0-shaver-1"
+  },
+  {
+   "id": "stylecraft-gold-titanium-single-foil-with-echo-forged-cutters-for-the-uno-shaver",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium Single Foil with Echo & Forged Cutters for the Uno Shaver",
+   "type": "BLADE",
+   "model": "SC550G",
+   "material": "Gold titanium foil",
+   "size": "Single foil head + Echo and Forged cutters",
+   "color": "Gold",
+   "features": [
+    "Forged cutters for a closer, consistent cut",
+    "Echo cutters with audible snap",
+    "Gentle on sensitive skin"
+   ],
+   "fits": [
+    "uno",
+    "gamma-uno-shaver"
+   ],
+   "fitsText": "Fits the Uno Single Foil Shaver",
+   "priceUsd": 24.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-and-echo-and-forged-cutters-for-the-uno-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/71glTduvR7L_2.jpg?v=1785798694",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-and-echo-and-forged-cutters-for-the-uno-shaver-1"
+  },
+  {
+   "id": "stylecraft-gold-titanium-x-pro-classic-trimmer-blade-black-dlc-the-one-cutter",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium X-Pro Classic Trimmer Blade & Black DLC \"The One\" Cutter",
+   "type": "BLADE",
+   "model": "SC529GB",
+   "material": "Gold titanium fixed blade, black DLC cutter",
+   "size": "Trimmer blade 40 mm (Classic)",
+   "color": "Gold / Black",
+   "features": [
+    "Convex and hollow grinding",
+    "Suited to sensitive skin",
+    "Beveled \"The One\" cutter for a closer cut",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-classic-trimmer-blade-and-black-dlc-the-one-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC529GB_775db439-09b0-4063-a9ce-09fb35dce18c.jpg?v=1785849243",
+   "upc": [
+    "810069131719"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-classic-trimmer-blade-and-black-dlc-the-one-cutter-1"
+  },
+  {
+   "id": "stylecraft-gold-titanium-x-pro-precision-trimmer-blade-black-dlc-the-one-deep-tooth-cutter",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium X-Pro Precision Trimmer Blade & Black DLC \"The One\" Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "SC523GB",
+   "material": "Gold titanium fixed blade, black DLC cutter",
+   "size": "Trimmer blade 32 mm (Precision)",
+   "color": "Gold / Black",
+   "features": [
+    "Narrow precision blade for fine detail work",
+    "Convex and hollow grinding",
+    "Deep Tooth \"The One\" cutter, less snagging",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-precision-trimmer-blade-and-black-dlc-the-one-deep-tooth-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC523GB.jpg?v=1785848444",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-precision-trimmer-blade-and-black-dlc-the-one-deep-tooth-cutter"
+  },
+  {
+   "id": "stylecraft-gold-titanium-x-pro-wide-trimmer-blade-black-dlc-the-one-cutter",
+   "brand": "Stylecraft",
+   "name": "Gold Titanium X-Pro Wide Trimmer Blade & Black DLC \"The One\" Cutter",
+   "type": "BLADE",
+   "model": "SC527GB",
+   "material": "Gold titanium fixed blade, black DLC cutter",
+   "size": "Trimmer blade 41 mm (X-Pro Wide)",
+   "color": "Gold / Black",
+   "features": [
+    "Wide blade for large surfaces and bulk trimming",
+    "Convex and hollow grinding",
+    "Suited to sensitive skin",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-wide-trimmer-blade-and-black-dlc-the-one-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC527GB_088a5bea-6e56-4126-a71e-ed3b592419ab.jpg?v=1785849604",
+   "upc": [
+    "810069131696"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-wide-trimmer-blade-and-black-dlc-the-one-cutter"
+  },
+  {
+   "id": "stylecraft-japanese-stainless-steel-ace-trimmer-blade-deep-tooth-cutter",
+   "brand": "Stylecraft",
+   "name": "Japanese Stainless Steel Ace Trimmer Blade & Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "SC519S",
+   "material": "Japanese stainless steel",
+   "size": "Trimmer blade 40 mm (Classic)",
+   "color": "Silver",
+   "features": [
+    "Deep Tooth cutter for bulk removal",
+    "Crunchy, audible cutting",
+    "Product image notes \"fits Ace trimmer only\"",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "ace-trimmer"
+   ],
+   "fitsText": "Fits the Stylecraft Ace Trimmer (product image states \"fits Ace trimmer only\"; page text also says it fits most StyleCraft and GAMMA+ models)",
+   "priceUsd": 27.95,
+   "buyUrl": "https://stylecraftus.com/products/japanese-stainless-steel-ace-trimmer-blade-and-deep-tooth-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC519S_8b19d77f-454e-475a-ab90-4fab11d30bcd.jpg?v=1785848729",
+   "upc": [
+    "810069131412"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/japanese-stainless-steel-ace-trimmer-blade-and-deep-tooth-cutter-1"
+  },
+  {
+   "id": "stylecraft-japanese-stainless-steel-taper-clipper-blade-ceramic-cutter",
+   "brand": "Stylecraft",
+   "name": "Japanese Stainless Steel Taper Clipper Blade & Ceramic Cutter",
+   "type": "BLADE",
+   "model": "SC543S",
+   "material": "Japanese stainless steel fixed blade, ceramic cutter",
+   "size": "Clipper blade set (Taper fixed + ceramic cutter)",
+   "color": "Silver",
+   "features": [
+    "Taper design lifts hair for bulk cutting",
+    "Ceramic moving blade stays sharp longer",
+    "Japanese stainless steel fixed blade",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Stylecraft and Gamma+ professional clippers (brand: \"compatible with most StyleCraft and GAMMA+ hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/japanese-stainless-steel-taper-clipper-blade-and-ceramic-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC543S_6fdfc348-2c43-4c86-9a53-8637acd7aa59.webp?v=1785795752",
+   "upc": [
+    "810069132815"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/japanese-stainless-steel-taper-clipper-blade-and-ceramic-cutter-1"
+  },
+  {
+   "id": "stylecraft-single-foil-cutter-for-the-homie-nano-shaver",
+   "brand": "Stylecraft",
+   "name": "Single Foil & Cutter for the Homie Nano Shaver",
+   "type": "BLADE",
+   "model": "SC559B",
+   "material": "Gold titanium foil",
+   "size": "Single foil + Echo cutter",
+   "color": null,
+   "features": [
+    "Ultra-thin foil for sensitive skin",
+    "Echo cutter for crisp cutting",
+    "Tool-free snap-on"
+   ],
+   "fits": [
+    "homie-shaver"
+   ],
+   "fitsText": "Fits the Stylecraft Homie Nano Single Foil Shaver",
+   "priceUsd": 10.95,
+   "buyUrl": "https://stylecraftus.com/products/homie-shaver-replacement-foil",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/HOMIES_3.jpg?v=1785246276",
+   "upc": [
+    "810069134895"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/homie-shaver-replacement-foil"
+  },
+  {
+   "id": "stylecraft-stainless-steel-foil-for-ace-7x-bald-head-shaver",
+   "brand": "Stylecraft",
+   "name": "Stainless Steel Foil for Ace 7X Bald Head Shaver",
+   "type": "BLADE",
+   "model": "SC546S",
+   "material": "Stainless steel foils",
+   "size": "7 floating foil heads",
+   "color": null,
+   "features": [
+    "Seven flexible floating foil heads",
+    "Waterproof IPX7, wet or dry",
+    "Magnetic easy-release, twist-off"
+   ],
+   "fits": [
+    "ace-bald-shaver"
+   ],
+   "fitsText": "Fits the Stylecraft Ace 7X Bald Head Shaver",
+   "priceUsd": 27.95,
+   "buyUrl": "https://stylecraftus.com/products/stainless-steel-foil-for-ace-7x-bald-head-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC546S_4df265da-dbfb-4ca2-a42d-6621e92dab88.webp?v=1785805928",
+   "upc": [
+    "810069133287"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/stainless-steel-foil-for-ace-7x-bald-head-shaver-1"
+  },
+  {
+   "id": "stylecraft-stainless-steel-forged-cutters-for-the-ace-foil-shaver",
+   "brand": "Stylecraft",
+   "name": "Stainless Steel Forged Cutters for the Ace Foil Shaver",
+   "type": "BLADE",
+   "model": "SC506SH",
+   "material": "Stainless steel",
+   "size": "Set of 2 forged cutters",
+   "color": null,
+   "features": [
+    "Discontinued item on clearance",
+    "Set of 2 replacement cutters"
+   ],
+   "fits": [],
+   "fitsText": "Fits the Stylecraft Cordless Ace Foil Shaver only (exact Ace model not specified)",
+   "priceUsd": 13.95,
+   "buyUrl": "https://stylecraftus.com/products/stainless-steel-forged-cutters-for-the-ace-foil-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC506SH_1ea00770-a933-499a-9a83-81a99feb171f.jpg?v=1785805803",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/stainless-steel-forged-cutters-for-the-ace-foil-shaver-1"
+  },
+  {
+   "id": "stylecraft-stainless-steel-homie-classic-trimmer-blade",
+   "brand": "Stylecraft",
+   "name": "Stainless Steel Homie Classic Trimmer Blade",
+   "type": "BLADE",
+   "model": "SC419S",
+   "material": "Japanese stainless steel fixed blade, stainless steel cutter",
+   "size": "Trimmer blade (Classic)",
+   "color": null,
+   "features": [
+    "Exclusive to the Homie trimmer",
+    "Improved tooth spacing on moving blade",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "homie-trimmer"
+   ],
+   "fitsText": "Fits the Stylecraft Homie Trimmer only",
+   "priceUsd": 15.95,
+   "buyUrl": "https://stylecraftus.com/products/stainless-steel-homie-classic-trimmer-blade-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC419S_8611fa35-9447-4857-87c8-c2dd1edba97a.jpg?v=1785808835",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/stainless-steel-homie-classic-trimmer-blade-1"
+  },
+  {
+   "id": "stylecraft-stainless-steel-single-foil-and-echo-cutter-for-the-ace-single-foil-shaver",
+   "brand": "Stylecraft",
+   "name": "Stainless Steel Single Foil and Echo Cutter for the Ace Single Foil Shaver",
+   "type": "BLADE",
+   "model": "SC547B",
+   "material": "Japanese stainless steel foil",
+   "size": "Single foil head + Echo cutter",
+   "color": "Black",
+   "features": [
+    "Ultra-close shave for face, neck or scalp",
+    "Echo cutter with crisp snap",
+    "Snap-in installation"
+   ],
+   "fits": [
+    "ace-shaver"
+   ],
+   "fitsText": "Fits the Stylecraft Ace Single Foil Shaver",
+   "priceUsd": 13.95,
+   "buyUrl": "https://stylecraftus.com/products/stainless-steel-single-foil-and-echo-cutter-for-the-ace-single-foil-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC547B_eba33551-7cb5-4736-b98d-a35244215537.jpg?v=1785800459",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/stainless-steel-single-foil-and-echo-cutter-for-the-ace-single-foil-shaver-1"
+  },
+  {
+   "id": "stylecraft-stainless-steel-slick-foil-for-the-absolute-zero-foil-shaver",
+   "brand": "Stylecraft",
+   "name": "Stainless Steel Slick Foil for the Absolute Zero Foil Shaver",
+   "type": "BLADE",
+   "model": "SCAZSF",
+   "material": "Stainless steel",
+   "size": "Replacement foil head",
+   "color": null,
+   "features": [
+    "Discontinued item on clearance",
+    "Fits Cordless Absolute Zero only"
+   ],
+   "fits": [
+    "absolute-zero"
+   ],
+   "fitsText": "Fits the Stylecraft Cordless Absolute Zero shaver only",
+   "priceUsd": 16.95,
+   "buyUrl": "https://stylecraftus.com/products/stainless-steel-slick-foil-for-the-absolute-zero-foil-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SCAZSF_main_image.jpg?v=1785329369",
+   "upc": [
+    "810069130149"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/stainless-steel-slick-foil-for-the-absolute-zero-foil-shaver-1"
+  },
+  {
+   "id": "stylecraft-stainless-steel-slick-foil-for-the-ace-waterproof-triple-foil-shaver",
+   "brand": "Stylecraft",
+   "name": "Stainless Steel Slick Foil for the Ace Waterproof Triple Foil Shaver",
+   "type": "BLADE",
+   "model": "SC505SH",
+   "material": "Stainless steel",
+   "size": "Snap-on foil head",
+   "color": null,
+   "features": [
+    "Discontinued item on clearance",
+    "Snap-on replacement foil head"
+   ],
+   "fits": [
+    "ace-triple-shaver"
+   ],
+   "fitsText": "Fits the Stylecraft Ace Waterproof Triple Foil Shaver (brand: \"Cordless Ace foil shaver only\")",
+   "priceUsd": 13.95,
+   "buyUrl": "https://stylecraftus.com/products/stainless-steel-slick-foil-for-the-ace-waterproof-triple-foil-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC505SH_3121102a-fe7c-4d14-a227-fffcb53eb1fa.jpg?v=1785806021",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/stainless-steel-slick-foil-for-the-ace-waterproof-triple-foil-shaver-1"
+  },
+  {
+   "id": "stylecraft-barber-dub-universal-double-magnetic-neodymium-clipper-guards-8-sizes",
+   "brand": "Stylecraft",
+   "name": "Barber DUB Universal Double Magnetic Neodymium Clipper Guards (8 sizes)",
+   "type": "GUARD",
+   "model": "SCDMGB / SCDB",
+   "material": "Plastic with double neodymium magnets",
+   "size": "8 guards, assorted sizes",
+   "color": "Black / Blue",
+   "features": [
+    "Double magnetic backing, quick on/off",
+    "Magnets sit flush (hidden)",
+    "Numbered sizes",
+    "For all hair types"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Universal magnetic guards: fits most clipper brands, including Stylecraft and Gamma+ professional clippers (brand: \"will fit securely to most clipper brands\")",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/barber-dub-universal-double-magnetic-neodymium-clipper-guards-8-assorted-sizes",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SCDMGB.jpg?v=1784210607",
+   "upc": [
+    "850022298165"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/barber-dub-universal-double-magnetic-neodymium-clipper-guards-8-assorted-sizes"
+  },
+  {
+   "id": "stylecraft-tight-guards-dub-neodymium-magnetic-guards-4-sizes",
+   "brand": "Stylecraft",
+   "name": "Tight Guards Dub Neodymium Magnetic Guards (4 sizes)",
+   "type": "GUARD",
+   "model": "SCTGPK",
+   "material": "Plastic with double neodymium magnets",
+   "size": "4 guards 1/16\"-1/4\"",
+   "color": "Pink",
+   "features": [
+    "Hair-channel outer teeth feed hair to blade",
+    "Laser-cut for consistent sizing",
+    "For bald looks, tight fades, beards"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most standard clippers (brand: \"engineered to fit most standard clippers on the market\"), including Stylecraft and Gamma+ professional clippers",
+   "priceUsd": 24.95,
+   "buyUrl": "https://stylecraftus.com/products/tight-guards-barber-hairstylist-dub-neodymium-plastic-4-assorted-sizes",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/sctgpk_main_1.jpg?v=1784306703",
+   "upc": [
+    "810069132136"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/tight-guards-barber-hairstylist-dub-neodymium-plastic-4-assorted-sizes"
+  },
+  {
+   "id": "stylecraft-studio-professional-extra-long-kick-covers-cape",
+   "brand": "Stylecraft",
+   "name": "Studio Professional Extra-Long Kick Covers Cape",
+   "type": "CAPE",
+   "model": "SC340B",
+   "material": "100% polyester, water-resistant",
+   "size": "Cape 71\" x 55\"",
+   "color": "Black (also White, Dusty Rose, Sage Green, Reign, Wildstyle, Purple Radioactive, Radioactive Black, Radioactive Green, Red Camo, Black Camo, Pink and Purple)",
+   "features": [
+    "Covers shoulders to feet",
+    "Adjustable neck clasp",
+    "Anti-static, clippings do not stick",
+    "Wipe or rinse clean"
+   ],
+   "fits": [],
+   "fitsText": "Universal barber cape (fits all clients; not tool-specific)",
+   "priceUsd": 27.95,
+   "buyUrl": "https://stylecraftus.com/products/studio-professional-extra-long-kick-covers-cape",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/SC340B.jpg?v=1784212412",
+   "upc": [
+    "810069133386"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/studio-professional-extra-long-kick-covers-cape"
+  },
+  {
+   "id": "stylecraft-absolute-hitter-trimmer-charging-base",
+   "brand": "Stylecraft",
+   "name": "Absolute Hitter Trimmer Charging Base",
+   "type": "OTHER",
+   "model": "P-SCHCS",
+   "material": null,
+   "size": null,
+   "color": "Black",
+   "features": [
+    "Charging stand sold without cord",
+    "Mini-USB plugs into trimmer, not stand"
+   ],
+   "fits": [
+    "gamma-absolute-hitter-trimmer"
+   ],
+   "fitsText": "Fits the Absolute Hitter Trimmer",
+   "priceUsd": 29.95,
+   "buyUrl": "https://stylecraftus.com/products/absolute-hitter-trimmer-charging-base",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/schcs_2.jpg?v=1784750581",
+   "upc": [
+    "850014553555"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/absolute-hitter-trimmer-charging-base"
+  },
+  {
+   "id": "stylecraft-compact-travel-case-for-clippers-trimmers-and-shaver-accessories",
+   "brand": "Stylecraft",
+   "name": "Compact Travel Case for Clippers, Trimmers and Shaver Accessories",
+   "type": "OTHER",
+   "model": "SC301B",
+   "material": "Semi-hard water-resistant nylon",
+   "size": "8.5\" x 4.75\" x 3.25\"",
+   "color": "Black",
+   "features": [
+    "Zippered mesh pocket",
+    "4\" Velcro strap",
+    "Opens from either side"
+   ],
+   "fits": [],
+   "fitsText": "Holds hair clippers, trimmers, shavers and accessories (universal)",
+   "priceUsd": 19.95,
+   "buyUrl": "https://stylecraftus.com/products/compact-travel-case-for-clippers-trimmers-and-shaver-accessories",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/sc301b__2.jpg?v=1784302936",
+   "upc": [
+    "810069130811"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/compact-travel-case-for-clippers-trimmers-and-shaver-accessories"
+  },
+  {
+   "id": "stylecraft-ergo-rogue-clippers-charging-base",
+   "brand": "Stylecraft",
+   "name": "Ergo & Rogue Clippers Charging Base",
+   "type": "OTHER",
+   "model": "P-SCECB",
+   "material": null,
+   "size": null,
+   "color": "Black",
+   "features": [
+    "Charging stand sold without cord",
+    "Mini-USB plugs into clipper, not stand"
+   ],
+   "fits": [
+    "ergo",
+    "rogue-clipper"
+   ],
+   "fitsText": "Fits Stylecraft Ergo and Rogue clippers",
+   "priceUsd": 29.95,
+   "buyUrl": "https://stylecraftus.com/products/ergo-rogue-clippers-charging-base",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/ergo_rogue_base_p-scecb.jpg?v=1784750624",
+   "upc": [
+    "850014553999"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/ergo-rogue-clippers-charging-base"
+  },
+  {
+   "id": "stylecraft-mythic-saber-apex-clippers-charging-base",
+   "brand": "Stylecraft",
+   "name": "Mythic, Saber & Apex Clippers Charging Base",
+   "type": "OTHER",
+   "model": "SC904B",
+   "material": null,
+   "size": null,
+   "color": "Black",
+   "features": [
+    "Charging stand sold without cord",
+    "Mini-USB plugs into clipper, not stand"
+   ],
+   "fits": [],
+   "fitsText": "Fits Stylecraft Mythic, Saber and Apex clippers (Saber 2 not specifically named)",
+   "priceUsd": 20.95,
+   "buyUrl": "https://stylecraftus.com/products/mythic-saber-apex-clippers-charging-base",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/sc904b_3.jpg?v=1784750685",
+   "upc": [
+    "810069131030"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/mythic-saber-apex-clippers-charging-base"
+  },
+  {
+   "id": "stylecraft-usb-c-portable-charging-dock-stand",
+   "brand": "Stylecraft",
+   "name": "USB-C Portable Charging Dock Stand",
+   "type": "OTHER",
+   "model": "SC309B",
+   "material": "Aircraft-grade aluminum",
+   "size": "2.5\" x 2.5\"",
+   "color": "Matte black",
+   "features": [
+    "USB-C upright charging",
+    "Overcharge circuit protection",
+    "Anti-slip silicone base"
+   ],
+   "fits": [
+    "ace-trimmer"
+   ],
+   "fitsText": "Fits the Stylecraft Cordless Ace Trimmer and Heat Stroke Beard Hot Brush (USB-C devices)",
+   "priceUsd": 21.95,
+   "buyUrl": "https://stylecraftus.com/products/usb-c-portable-charging-dock-stand-for-hair-clippers-trimmers-shavers-and-type-c-phone-ports",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/usb-c_stand_with_real_logo_1.jpg?v=1784568600",
+   "upc": [
+    "810069131399"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/usb-c-portable-charging-dock-stand-for-hair-clippers-trimmers-shavers-and-type-c-phone-ports"
+  },
+  {
+   "id": "stylecraft-zero-gap-trimmer-blade-setter-tool",
+   "brand": "Stylecraft",
+   "name": "Zero Gap Trimmer Blade Setter Tool",
+   "type": "OTHER",
+   "model": "P-0GAP",
+   "material": "Plastic",
+   "size": null,
+   "color": "White",
+   "features": [
+    "Two sides: near-zero gap and 0.3 mm",
+    "Precise blade alignment",
+    "Waterproof, wipe clean"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits all Gamma+ and Stylecraft trimmer blades",
+   "priceUsd": 15.95,
+   "buyUrl": "https://stylecraftus.com/products/zero-gap-trimmer-blade-setter-tool",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/1_2.png?v=1784568366",
+   "upc": [
+    "810069132693"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/zero-gap-trimmer-blade-setter-tool"
+  },
+  {
+   "id": "gamma-black-dlc-diamond-carbon-trimmer-blade-stainless-steel-deep-tooth-cutter",
+   "brand": "Gamma+",
+   "name": "Black DLC Diamond Carbon Trimmer Blade & Stainless Steel Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "GPAHRBD",
+   "material": "DLC fixed blade, stainless steel cutter",
+   "size": "Trimmer blade 40 mm (Classic)",
+   "color": "Black",
+   "features": [
+    "Deep Tooth cutter for bulk removal",
+    "Crunchy, audible cutting",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-diamond-carbon-trimmer-blade-and-stainless-steel-deep-tooth-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GPAHRBD_main.jpg?v=1789139539",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-diamond-carbon-trimmer-blade-and-stainless-steel-deep-tooth-cutter"
+  },
+  {
+   "id": "gamma-black-dlc-fade-clipper-blade-shallow-tooth-2-0-cutter",
+   "brand": "Gamma+",
+   "name": "Black DLC Fade Clipper Blade & Shallow Tooth 2.0 Cutter",
+   "type": "BLADE",
+   "model": "GP534B",
+   "material": "DLC-finished carbon steel",
+   "size": "Clipper blade set (Fade fixed + Shallow Tooth 2.0 cutter)",
+   "color": "Black",
+   "features": [
+    "Smooth fades and blending at the zero guideline",
+    "Rust and corrosion resistant",
+    "Runs cooler, stays sharp longer",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits Gamma+ and Stylecraft clippers (brand: \"designed to fit all GAMMA+ and StyleCraft clipper models\"), e.g. Xceed, Boosted Up, Cyborg, X-Ergo, Absolute Alpha, Instinct, Rebel 2.0, Saber 2, Ergo and Rogue",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-fade-clipper-blade-and-shallow-tooth-2-0-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP534B_0b81fbbe-1988-4603-b99d-f320a3795593.jpg?v=1784144892",
+   "upc": [
+    "810069131924"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-fade-clipper-blade-and-shallow-tooth-2-0-cutter"
+  },
+  {
+   "id": "gamma-black-dlc-faper-clipper-blade-slim-deep-tooth-cutter",
+   "brand": "Gamma+",
+   "name": "Black DLC Faper Clipper Blade & Slim Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "GP520B",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Clipper blade set (Faper fixed + Slim Deep Tooth cutter)",
+   "color": "Black",
+   "features": [
+    "Fade/taper fusion blade with ridges",
+    "Lighter Slim Deep Tooth cutter for debulking",
+    "Self-sharpening, runs cooler",
+    "Fully adjustable to zero gap"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft professional clippers (brand: \"compatible with most GAMMA+ and StyleCraft hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/faper-black-dlc-clipper-blade-and-slim-deep-tooth-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP520B_a95b16d2-5102-4498-b31f-6330568cd66d.jpg?v=1785807959",
+   "upc": [
+    "810069131474"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/faper-black-dlc-clipper-blade-and-slim-deep-tooth-cutter-1"
+  },
+  {
+   "id": "gamma-black-dlc-t1000-echo-fade-blade-shallow-2-0-cutter",
+   "brand": "Gamma+",
+   "name": "Black DLC T1000 Echo Fade Blade & Shallow 2.0 Cutter",
+   "type": "BLADE",
+   "model": "GP540B",
+   "material": "DLC-coated metal-injection-molded fixed blade",
+   "size": "Clipper blade set (Echo Fade fixed + Shallow Tooth 2.0 cutter)",
+   "color": "Black / Bronze",
+   "features": [
+    "Louder, more defined crunch",
+    "Built-in oil reservoir",
+    "Flatter, thinner profile for fades",
+    "Runs cooler under load",
+    "Fully adjustable to zero gap"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft professional clippers (brand: \"designed for compatibility with most GAMMA+ and StyleCraft clippers\"), e.g. Xceed, Boosted Up, Cyborg, X-Ergo, Absolute Alpha, Instinct, Rebel 2.0, Saber 2 and Ergo",
+   "priceUsd": 59.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-t1000-echo-fade-blade-and-shallow-2-0-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP540B_8f8282f0-71ef-4ef7-8059-91a8301eb0ce.jpg?v=1785791786",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-t1000-echo-fade-blade-and-shallow-2-0-cutter-1"
+  },
+  {
+   "id": "gamma-black-dlc-taper-clipper-blade-gold-titanium-deep-tooth-cutter",
+   "brand": "Gamma+",
+   "name": "Black DLC Taper Clipper Blade & Gold Titanium Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "GPCRBTS",
+   "material": "DLC fixed blade, gold titanium cutter",
+   "size": "Clipper blade set (Taper fixed + Deep Tooth cutter)",
+   "color": "Black / Gold",
+   "features": [
+    "Taper blade lifts hair",
+    "Gold titanium cutter suited to sensitive skin",
+    "Deep Tooth cutter for bulk removal",
+    "Fully adjustable to zero gap"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft professional clippers (brand: \"compatible with most GAMMA+ and StyleCraft hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-taper-blade-and-gold-titanium-deep-tooth-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/61OwJIH7peL.jpg?v=1785850609",
+   "upc": [
+    "850014553210"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-taper-blade-and-gold-titanium-deep-tooth-cutter-1"
+  },
+  {
+   "id": "gamma-black-dlc-x-pro-wide-trimmer-blade-the-one-cutter",
+   "brand": "Gamma+",
+   "name": "Black DLC X-Pro Wide Trimmer Blade & \"The One\" Cutter",
+   "type": "BLADE",
+   "model": "GP536B",
+   "material": "DLC (Black Diamond Carbon)",
+   "size": "Trimmer blade 41 mm (X-Pro Wide)",
+   "color": "Black",
+   "features": [
+    "Convex and hollow grinding",
+    "\"The One\" beveled cutter, less snagging",
+    "Rust and corrosion resistant, self-sharpening",
+    "Fully adjustable to zero gap"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/black-dlc-x-pro-wide-trimmer-blade-and-the-one-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP536B_17638505-9dc5-44d7-8a8b-1535b43c1383.jpg?v=1784144646",
+   "upc": [
+    "810069132075"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/black-dlc-x-pro-wide-trimmer-blade-and-the-one-cutter"
+  },
+  {
+   "id": "gamma-classic-x-pro-stainless-steel-trimmer-blade-the-one-black-diamond-cutter",
+   "brand": "Gamma+",
+   "name": "Classic X-Pro Stainless Steel Trimmer Blade & \"The One\" Black Diamond Cutter",
+   "type": "BLADE",
+   "model": "GP530SB",
+   "material": "Stainless steel fixed blade, DLC cutter",
+   "size": "Trimmer blade set (Classic X-Pro)",
+   "color": null,
+   "features": [
+    "Classic X-Pro fixed blade",
+    "Black Diamond Carbon \"The One\" cutter",
+    "Sold via retailers (not listed on brand site)"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits Gamma+ and Stylecraft trimmers (retailer: \"compatible with all Gamma+ and StyleCraft trimmer models\")",
+   "priceUsd": 49.95,
+   "buyUrl": "https://wbbarber.com/products/gamma-classic-x-pro-stainless-steel-fixed-blade-with-the-one-black-diamond-cutting-trimmer-blade-set-gp530sb",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/GP530SB1.png?v=1665696320",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/gamma-classic-x-pro-stainless-steel-fixed-blade-with-the-one-black-diamond-cutting-trimmer-blade-set-gp530sb"
+  },
+  {
+   "id": "gamma-gold-titanium-double-foil-and-echo-cutters-for-the-xceed-shaver",
+   "brand": "Gamma+",
+   "name": "Gold Titanium Double Foil and Echo Cutters for the Xceed Shaver",
+   "type": "BLADE",
+   "model": "GP556B",
+   "material": "Gold titanium foil",
+   "size": "Double foil head + Echo cutters",
+   "color": "Gold",
+   "features": [
+    "All-in-one foil head and cutters",
+    "Gentle on sensitive skin",
+    "Lock-button head, snap-in cutters"
+   ],
+   "fits": [
+    "gamma-xceed-shaver"
+   ],
+   "fitsText": "Fits the Gamma+ Xceed Foil Shaver",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-the-xceed-shaver-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP556B_d83debfb-aa6a-4a81-a083-4cfcb63d533b.jpg?v=1785800998",
+   "upc": [
+    "810069134550"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-double-foil-and-echo-cutters-for-the-xceed-shaver-1"
+  },
+  {
+   "id": "gamma-gold-titanium-fade-clipper-blade-slim-deep-tooth-cutter",
+   "brand": "Gamma+",
+   "name": "Gold Titanium Fade Clipper Blade & Slim Deep Tooth Cutter",
+   "type": "BLADE",
+   "model": "GP521G",
+   "material": "Gold titanium",
+   "size": "Clipper blade set (Fade fixed + Slim Deep Tooth cutter)",
+   "color": "Gold",
+   "features": [
+    "Fade blade for blending the zero guide line",
+    "Suited to sensitive skin",
+    "Lighter Slim Deep Tooth cutter",
+    "Fully adjustable to zero gap"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft professional clippers (brand: \"compatible with most GAMMA+ and StyleCraft hair clipper models\"), e.g. Instinct, Instinct-X, Rebel 2.0, Saber 2, Reign, Ergo, Rogue, Protégé, Gamma+ Xceed, Boosted Up, Cyborg, X-Ergo, Shorty and Absolute Alpha clippers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-fade-clipper-blade-and-slim-deep-tooth-cutter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP521G_98c8509d-cd1b-4178-a115-a3547cd6280c.jpg?v=1785808385",
+   "upc": [
+    "810069131498"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-fade-clipper-blade-and-slim-deep-tooth-cutter"
+  },
+  {
+   "id": "gamma-gold-titanium-foil-head-stainless-steel-echo-cutters-for-the-boosted-shaver",
+   "brand": "Gamma+",
+   "name": "Gold Titanium Foil Head & Stainless Steel Echo Cutters for the Boosted Shaver",
+   "type": "BLADE",
+   "model": "GP553G",
+   "material": "Gold titanium foil, stainless steel cutters",
+   "size": "Double foil head + Echo cutters",
+   "color": "Black",
+   "features": [
+    "Foil head and cutters in one set",
+    "Gentle on sensitive skin",
+    "Echo cutters with audible snap"
+   ],
+   "fits": [
+    "gamma-boosted-shaver"
+   ],
+   "fitsText": "Fits the Gamma+ Boosted Double Foil Shaver",
+   "priceUsd": 38.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-foil-head-and-stainless-steel-echo-cutters-for-the-boosted-shaver",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP553G_01.jpg?v=1785858491",
+   "upc": [
+    "810069134208"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-foil-head-and-stainless-steel-echo-cutters-for-the-boosted-shaver"
+  },
+  {
+   "id": "gamma-gold-titanium-foil-head-for-boosted-shaver",
+   "brand": "Gamma+",
+   "name": "Gold Titanium Foil Head for Boosted Shaver",
+   "type": "BLADE",
+   "model": "GP545B",
+   "material": "Gold titanium foil",
+   "size": "Replacement foil head",
+   "color": null,
+   "features": [
+    "Foil head only (no cutters)",
+    "Sold via retailers (not listed on brand site)"
+   ],
+   "fits": [
+    "gamma-boosted-shaver"
+   ],
+   "fitsText": "Fits the Gamma+ Boosted Shaver only",
+   "priceUsd": 22.95,
+   "buyUrl": "https://wbbarber.com/products/gamma-gold-titanium-foil-head-compatible-with-boosted-shaver-gp545b",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/31js1yHonqL._SY445_SX342_QL70_FMwebp.webp?v=1747245457",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/gamma-gold-titanium-foil-head-compatible-with-boosted-shaver-gp545b"
+  },
+  {
+   "id": "gamma-gold-titanium-single-foil-and-echo-cutters-for-boosted-one-shaver",
+   "brand": "Gamma+",
+   "name": "Gold Titanium Single Foil and Echo Cutters for Boosted One Shaver",
+   "type": "BLADE",
+   "model": "GP557B",
+   "material": "Gold titanium foil, stainless steel cutter",
+   "size": "Single foil + Echo cutter",
+   "color": "Black / Gold",
+   "features": [
+    "Ultra-thin foil for sensitive skin",
+    "Echo cutter with crisp crunch",
+    "Tool-free snap-on"
+   ],
+   "fits": [
+    "gamma-boosted-one-shaver"
+   ],
+   "fitsText": "Fits the Gamma+ Boosted One Professional Single Foil Shaver",
+   "priceUsd": 24.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-and-echo-cutters-for-boosted-one-shaver",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/BoostedOneShaverReplacementCutterandFoil-SC557B-01-2000x2000.jpg?v=1789146013",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-and-echo-cutters-for-boosted-one-shaver"
+  },
+  {
+   "id": "gamma-gold-titanium-single-foil-with-echo-forged-cutters-for-the-uno-shaver",
+   "brand": "Gamma+",
+   "name": "Gold Titanium Single Foil with Echo & Forged Cutters for the Uno Shaver",
+   "type": "BLADE",
+   "model": "GP554G",
+   "material": "Gold titanium foil",
+   "size": "Single foil head + Echo and Forged cutters",
+   "color": "Gold / Red / Black",
+   "features": [
+    "Forged cutters for a closer cut",
+    "Echo cutters with audible snap",
+    "Gentle on sensitive skin"
+   ],
+   "fits": [
+    "gamma-uno-shaver",
+    "uno"
+   ],
+   "fitsText": "Fits the Uno Single Foil Shaver",
+   "priceUsd": 24.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-echo-and-forged-cutters-for-the-uno-shaver",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/71beLJQWI6L_1.jpg?v=1785807242",
+   "upc": [
+    "810069134215"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-single-foil-echo-and-forged-cutters-for-the-uno-shaver"
+  },
+  {
+   "id": "gamma-gold-titanium-x-pro-wide-trimmer-blade-black-dlc-the-one-cutter",
+   "brand": "Gamma+",
+   "name": "Gold Titanium X-Pro Wide Trimmer Blade & Black DLC \"The One\" Cutter",
+   "type": "BLADE",
+   "model": "GP527GB",
+   "material": "Gold titanium fixed blade, black DLC cutter",
+   "size": "Trimmer blade 41 mm (X-Pro Wide)",
+   "color": "Gold / Black",
+   "features": [
+    "Convex and hollow grinding",
+    "Suited to sensitive skin",
+    "Beveled \"The One\" cutter",
+    "Fully adjustable to zero gap",
+    "Installs with two screws"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft professional trimmers (brand: \"compatible with most GAMMA+ and StyleCraft hair trimmer models\"), e.g. Instinct, Rebel, Saber, Reign, Flex, Protégé, Gamma+ Xceed, Cyborg, Boosted and Absolute Hitter trimmers",
+   "priceUsd": 49.95,
+   "buyUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-wide-trimmer-blade-and-black-dlc-the-one-cutter-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP527GB_75c747f7-b94d-4388-95ab-797b84ea79cb.jpg?v=1785851176",
+   "upc": [
+    "810069132037"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/gold-titanium-x-pro-wide-trimmer-blade-and-black-dlc-the-one-cutter-1"
+  },
+  {
+   "id": "gamma-stainless-steel-crunchy-cutters-for-boosted-shaver-set-of-2",
+   "brand": "Gamma+",
+   "name": "Stainless Steel Crunchy Cutters for Boosted Shaver (Set of 2)",
+   "type": "BLADE",
+   "model": "GP546B",
+   "material": "Stainless steel",
+   "size": "Set of 2 cutters",
+   "color": null,
+   "features": [
+    "Set of 2 replacement cutters",
+    "Sold via retailers (not listed on brand site)"
+   ],
+   "fits": [
+    "gamma-boosted-shaver"
+   ],
+   "fitsText": "Fits the Gamma+ Boosted Foil Shaver",
+   "priceUsd": 15.95,
+   "buyUrl": "https://wbbarber.com/products/gamma-gamma-replacement-set-of-2-stainless-steel-crunchy-cutters-compatible-with-boosted-shaver-gp546b",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/51-eZ2ZdTNL.jpg?v=1747245686",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/gamma-gamma-replacement-set-of-2-stainless-steel-crunchy-cutters-compatible-with-boosted-shaver-gp546b"
+  },
+  {
+   "id": "gamma-stainless-steel-taper-clipper-blade-shallow-tooth-2-0-cutter",
+   "brand": "Gamma+",
+   "name": "Stainless Steel Taper Clipper Blade & Shallow Tooth 2.0 Cutter",
+   "type": "BLADE",
+   "model": "GP539S",
+   "material": "Japanese stainless steel",
+   "size": "Clipper blade set (Taper fixed + Shallow Tooth 2.0 cutter)",
+   "color": "Silver",
+   "features": [
+    "General cutting and blending",
+    "Premium Japanese stainless steel",
+    "Fully adjustable to zero gap",
+    "Replace every 1-4 months depending on use"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits Gamma+ and Stylecraft clippers (brand: \"compatible with all StyleCraft and GAMMA+ clipper models\"), e.g. Xceed, Boosted Up, Cyborg, X-Ergo, Shorty, Absolute Alpha, Instinct, Rebel 2.0 and Saber 2",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/stainless-steel-taper-clipper-blade-and-shallow-tooth-2-1",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GP539S_50c6ac86-b041-43a5-ac1a-0d2d3acba53d.webp?v=1785861248",
+   "upc": [
+    "810069132426"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/stainless-steel-taper-clipper-blade-and-shallow-tooth-2-1"
+  },
+  {
+   "id": "gamma-x-pro-wide-stainless-steel-trimmer-blade-the-one-dlc-cutter",
+   "brand": "Gamma+",
+   "name": "X-Pro Wide Stainless Steel Trimmer Blade & \"The One\" DLC Cutter",
+   "type": "BLADE",
+   "model": "GP528SB",
+   "material": "Stainless steel fixed blade, DLC cutter",
+   "size": "Trimmer blade 41 mm (X-Pro Wide)",
+   "color": null,
+   "features": [
+    "41 mm polished wide blade",
+    "Black Diamond Carbon \"The One\" cutter",
+    "Sold via retailers (not listed on brand site)"
+   ],
+   "fits": [
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits Gamma+ and Stylecraft trimmers (retailer: \"compatible with all Gamma + and StyleCraft trimmer models\")",
+   "priceUsd": 49.95,
+   "buyUrl": "https://wbbarber.com/products/gamma-x-pro-wide-stainless-steel-with-black-diamond-carbon-dlc-the-one-cutting-trimmer-blade-set-gp528sb",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/12460_500x_a1243f28-e6a4-4436-8508-6b8fcd1bcff0.jpg?v=1747229382",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/gamma-x-pro-wide-stainless-steel-with-black-diamond-carbon-dlc-the-one-cutting-trimmer-blade-set-gp528sb"
+  },
+  {
+   "id": "gamma-dub-magnetic-guards-premium-neodymium-8-sizes",
+   "brand": "Gamma+",
+   "name": "Dub Magnetic Guards Premium Neodymium (8 sizes)",
+   "type": "GUARD",
+   "model": "GPDMGB / GPDR",
+   "material": "Plastic with double neodymium magnets",
+   "size": "8 guards, assorted sizes",
+   "color": "Black / Red",
+   "features": [
+    "Double magnetic guard system",
+    "Magnets sit flush (hidden)",
+    "Numbered guides",
+    "For daily professional use"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Universal magnetic guards: fits most clipper brands, including Stylecraft and Gamma+ professional clippers (brand: \"will fit securely to most clipper brands\")",
+   "priceUsd": 37.95,
+   "buyUrl": "https://stylecraftus.com/products/professional-dub-magnetic-guards-premium-neodymium",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/GPDMGB_2537477c-6446-485b-a3d4-93746d83627b.jpg?v=1785777019",
+   "upc": [
+    "850022298158"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/professional-dub-magnetic-guards-premium-neodymium"
+  },
+  {
+   "id": "gamma-professional-wide-magnetic-trimmer-blade-guards",
+   "brand": "Gamma+",
+   "name": "Professional Wide Magnetic Trimmer Blade Guards",
+   "type": "GUARD",
+   "model": "GPWMTG",
+   "material": "Virgin plastic with neodymium magnet",
+   "size": "4 guards: #5 (1/16\"), #1 (1/8\"), #2 (1/4\"), #3 (3/8\")",
+   "color": "Blue",
+   "features": [
+    "Designed in Italy",
+    "Hair-channel teeth reduce snagging",
+    "Neodymium magnet in each guard"
+   ],
+   "fits": [
+    "rebel-trimmer",
+    "instinct-metal-trimmer"
+   ],
+   "fitsText": "Fits Gamma+ and Stylecraft trimmers with a wide 41 mm trimmer blade (e.g. Rebel Trimmer and Instinct Metal Trimmer stock X-Pro Wide blades, or any trimmer fitted with an X-Pro Wide blade)",
+   "priceUsd": 19.95,
+   "buyUrl": "https://stylecraftus.com/products/professional-wide-magnetic-trimmer-blade-guards-blue",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/1_1.png?v=1784568470",
+   "upc": [
+    "810069132983"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/professional-wide-magnetic-trimmer-blade-guards-blue"
+  },
+  {
+   "id": "gamma-tight-guards-dub-neodymium-magnetic-guards-4-sizes",
+   "brand": "Gamma+",
+   "name": "Tight Guards Dub Neodymium Magnetic Guards (4 sizes)",
+   "type": "GUARD",
+   "model": "GPTGB",
+   "material": "Plastic with double neodymium magnets",
+   "size": "4 guards 1/16\"-1/4\"",
+   "color": "Cyan Blue",
+   "features": [
+    "Hair-channel outer teeth feed hair to blade",
+    "Laser-cut for consistent sizing",
+    "For bald looks, tight fades, beards"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo"
+   ],
+   "fitsText": "Fits most standard clippers (brand: \"engineered to fit most standard clippers on the market\"), including Stylecraft and Gamma+ professional clippers",
+   "priceUsd": 24.95,
+   "buyUrl": "https://stylecraftus.com/products/tight-guards-barber-hairstylist-dub-neodymium-plastic-4-assorted-sizes",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/gptgb_tight_blue_1b.jpg?v=1784569231",
+   "upc": [],
+   "sourceUrl": "https://stylecraftus.com/products/tight-guards-barber-hairstylist-dub-neodymium-plastic-4-assorted-sizes"
+  },
+  {
+   "id": "gamma-blow-vac-2-in-1-mini-air-blower-and-vacuum",
+   "brand": "Gamma+",
+   "name": "Blow Vac 2-in-1 Mini Air Blower and Vacuum",
+   "type": "OTHER",
+   "model": "GP315B",
+   "material": null,
+   "size": null,
+   "color": "Black",
+   "features": [
+    "100,000 RPM brushless motor",
+    "Blow or vacuum, 4 speeds",
+    "Up to 2 hr runtime, USB-C",
+    "Front LED light"
+   ],
+   "fits": [],
+   "fitsText": "Universal cleaning tool for clippers, trimmers and workstations",
+   "priceUsd": 89.95,
+   "buyUrl": "https://stylecraftus.com/products/blow-vac-2-in-1-mini-air-blower-and-vacuum-usb-c-rechargeable",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/gp315b_gamma_blow_vac_3.jpg?v=1784568875",
+   "upc": [
+    "810069132839"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/blow-vac-2-in-1-mini-air-blower-and-vacuum-usb-c-rechargeable"
+  },
+  {
+   "id": "gamma-connect-3-barberhood-charging-system",
+   "brand": "Gamma+",
+   "name": "Connect 3 Barberhood Charging System",
+   "type": "OTHER",
+   "model": "GP314B",
+   "material": null,
+   "size": "Splitter with 2 expansion cords + adapter",
+   "color": "Black",
+   "features": [
+    "Charges 3 devices from one outlet",
+    "Keeps cables organized",
+    "Not a fast charger"
+   ],
+   "fits": [
+    "jeezy-clipper",
+    "saber-2",
+    "instinct-metal",
+    "instinct-x-clipper",
+    "instinct",
+    "reign",
+    "rebel-2",
+    "ergo",
+    "rogue-clipper",
+    "protege",
+    "solecito",
+    "gamma-xceed-clipper",
+    "gamma-shorty-clipper",
+    "gamma-boosted-clipper",
+    "gamma-cyborg-clipper",
+    "gamma-x-ergo-clipper",
+    "gamma-absolute-alpha-clipper",
+    "gamma-protege-combo",
+    "instinct-trimmer",
+    "precision-saber",
+    "instinct-metal-trimmer",
+    "saber-trimmer",
+    "reign-trimmer",
+    "flex-trimmer",
+    "rebel-trimmer",
+    "jeezy-trimmer",
+    "protege-trimmer",
+    "gamma-xceed-trimmer",
+    "gamma-cyborg-trimmer",
+    "gamma-boosted-trimmer",
+    "gamma-absolute-hitter-trimmer"
+   ],
+   "fitsText": "Fits most Gamma+ and Stylecraft clippers and trimmers (brand: \"compatible with most Gamma+ and StyleCraft products\")",
+   "priceUsd": 39.95,
+   "buyUrl": "https://stylecraftus.com/products/connect-3-barberhood-charging-system-2-expansion-cords-adapter",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/0739/1549/8633/files/gamma_connect3_2.jpg?v=1784568718",
+   "upc": [
+    "810069132747"
+   ],
+   "sourceUrl": "https://stylecraftus.com/products/connect-3-barberhood-charging-system-2-expansion-cords-adapter"
+  },
+  {
+   "id": "andis-cordless-t-outliner-li-deep-tooth-gtx-blade",
+   "brand": "Andis",
+   "name": "Cordless T-Outliner Li Replacement Deep Tooth GTX Blade - Carbon Steel",
+   "type": "BLADE",
+   "model": "04555",
+   "material": "Carbon steel",
+   "size": null,
+   "color": null,
+   "features": [
+    "Deep-tooth GTX design feeds hair faster",
+    "Handles bulk and dense hair",
+    "For outlines, freestyle designs and detail work"
+   ],
+   "fits": [
+    "andis-cordless-t-outliner-li-74000"
+   ],
+   "fitsText": "Fits Andis Cordless T-Outliner Li trimmers",
+   "priceUsd": 24.99,
+   "buyUrl": "https://hotels.andis.com/shop/detail/04555/cordless-t-outliner-li-replacement-deep-tooth-gtx-blade---carbon-steel",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/04555-t-outliner-cordless-li-orl-replacement-blade-gtx-straight-web.webp",
+   "upc": [],
+   "sourceUrl": "https://hotels.andis.com/shop/detail/04555/cordless-t-outliner-li-replacement-deep-tooth-gtx-blade---carbon-steel"
+  },
+  {
+   "id": "andis-fade-master-replacement-blade",
+   "brand": "Andis",
+   "name": "Fade Master Replacement Blade",
+   "type": "BLADE",
+   "model": "01591",
+   "material": "Carbon steel",
+   "size": null,
+   "color": null,
+   "features": [
+    "Designed for tight fades and smooth transitions",
+    "Precision-ground teeth",
+    "Smooth hair-feeding action"
+   ],
+   "fits": [
+    "andis-fade-master-01820"
+   ],
+   "fitsText": "Fits Andis Fade Master clippers",
+   "priceUsd": 25.99,
+   "buyUrl": "https://www.andis.com/shop/detail/01591/fade-master-replacement-blade",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/01591-master-fade-blade-ml-straight-front-1-web.webp",
+   "upc": [],
+   "sourceUrl": "https://www.andis.com/shop/detail/01591/fade-master-replacement-blade"
+  },
+  {
+   "id": "andis-gtx-exo-cordless-gold-gtx-z-replacement-blade",
+   "brand": "Andis",
+   "name": "GTX-EXO Cordless Gold GTX-Z Replacement Blade",
+   "type": "BLADE",
+   "model": "74110",
+   "material": null,
+   "size": null,
+   "color": "Gold",
+   "features": [
+    "Ultra-close cutting for lineups and detail work",
+    "Gold finish",
+    "Zero-gap capability"
+   ],
+   "fits": [
+    "andis-gtx-exo"
+   ],
+   "fitsText": "Fits Andis GTX-EXO cordless trimmers",
+   "priceUsd": 29.99,
+   "buyUrl": "https://andis.com/shop/detail/74110/gtx-exo-cordless-gold-gtx-z-replacement-blade",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/74110-gtx-exo-deep-tooth-gold-blade-orl-s-straight-front-1.webp",
+   "upc": [],
+   "sourceUrl": "https://andis.com/shop/detail/74110/gtx-exo-cordless-gold-gtx-z-replacement-blade"
+  },
+  {
+   "id": "andis-master-cordless-li-ceramic-replacement-blade",
+   "brand": "Andis",
+   "name": "Master Cordless Li Clipper Ceramic Replacement Blade",
+   "type": "BLADE",
+   "model": "05050",
+   "material": "Ceramic",
+   "size": null,
+   "color": null,
+   "features": [
+    "Ceramic cutter reduces heat buildup",
+    "Designed for clean blends and controlled cutting",
+    "Holds performance during longer sessions"
+   ],
+   "fits": [
+    "andis-master-cordless"
+   ],
+   "fitsText": "Fits the Andis Master Cordless Li clipper",
+   "priceUsd": 33.99,
+   "buyUrl": "https://www.andis.com/shop/detail/05050/master-cordless-li-clipper-ceramic-replacement-blade",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/05050-master-cordless-ceramic-blade-000-1-mlc-straight-front-1-web.webp",
+   "upc": [],
+   "sourceUrl": "https://www.andis.com/shop/detail/05050/master-cordless-li-clipper-ceramic-replacement-blade"
+  },
+  {
+   "id": "andis-master-ml-replacement-blade-000-1",
+   "brand": "Andis",
+   "name": "Master/ML Replacement Blade, Size 000-1",
+   "type": "BLADE",
+   "model": "01556",
+   "material": null,
+   "size": "Adjustable 000-1",
+   "color": null,
+   "features": [
+    "Adjustable cutting range 000 to 1 for blending and tapers",
+    "Precision-ground edge for smooth feeding",
+    "Built for high-volume shop use"
+   ],
+   "fits": [
+    "andis-master-adjustable-01815"
+   ],
+   "fitsText": "Fits Andis corded Master (ML) clippers",
+   "priceUsd": 25.99,
+   "buyUrl": "https://www.andis.com/shop/detail/01556/masterml-replacement-blade-size-000-1",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/01556-clipper-blade-replacement-sm-ml-m-straight-front-1-web.webp",
+   "upc": [],
+   "sourceUrl": "https://www.andis.com/shop/detail/01556/masterml-replacement-blade-size-000-1"
+  },
+  {
+   "id": "andis-phat-master-mlc-blade-1a-2",
+   "brand": "Andis",
+   "name": "Phat Master MLC Blade, Size 1A-2",
+   "type": "BLADE",
+   "model": "561949",
+   "material": null,
+   "size": "Adjustable 1A-2",
+   "color": null,
+   "features": [
+    "Adjustable 1A to 2 range for blending, tapering and bulk removal",
+    "Precision-ground teeth",
+    "Durable for high-volume shop use"
+   ],
+   "fits": [
+    "andis-master-adjustable-01815",
+    "andis-master-cordless"
+   ],
+   "fitsText": "Fits Andis Master and Master Cordless clippers",
+   "priceUsd": 49.99,
+   "buyUrl": "https://www.andis.com/shop/detail/561949/phat-master-blade-mlc",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/561949-phat-master-blade-mlc-straight-web.webp",
+   "upc": [],
+   "sourceUrl": "https://www.andis.com/shop/detail/561949/phat-master-blade-mlc"
+  },
+  {
+   "id": "andis-profoil-lithium-titanium-foil-assembly-inner-cutters",
+   "brand": "Andis",
+   "name": "ProFoil Lithium Titanium Foil Assembly and Inner Cutters",
+   "type": "BLADE",
+   "model": "17280",
+   "material": "Titanium foil",
+   "size": null,
+   "color": null,
+   "features": [
+    "Ultra-thin hypoallergenic titanium foils",
+    "Includes foil assembly and inner cutters",
+    "Restores close shaving performance"
+   ],
+   "fits": [
+    "andis-profoil-lithium",
+    "andis-profoil-lithium-plus-17255"
+   ],
+   "fitsText": "Fits Andis ProFoil Lithium Titanium (TS-1) and ProFoil Lithium Plus shavers (fit per Andis part naming and Marlo Beauty listing)",
+   "priceUsd": 23.99,
+   "buyUrl": "https://andis.com/shop/detail/17280/ProFoil-Li-Titanium-Foil-Cutters",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/17280-profoil-lithium-titanium-foil-shaver-cutters-ts-1-angle-web.webp",
+   "upc": [],
+   "sourceUrl": "https://andis.com/shop/detail/17280/ProFoil-Li-Titanium-Foil-Cutters"
+  },
+  {
+   "id": "andis-slimline-pro-li-trimmer-replacement-blade-set",
+   "brand": "Andis",
+   "name": "Slimline Pro Li Trimmer Replacement Blade Set - Carbon Steel",
+   "type": "BLADE",
+   "model": "32105",
+   "material": "Carbon steel",
+   "size": null,
+   "color": null,
+   "features": [
+    "Carbon steel blade and cutter",
+    "Precision-ground teeth",
+    "For lineups, edging and finishing"
+   ],
+   "fits": [
+    "andis-slimline-pro-li"
+   ],
+   "fitsText": "Fits Andis Slimline Pro Li trimmers",
+   "priceUsd": 22.99,
+   "buyUrl": "https://andis.com/shop/detail/32105/slimline-pro-li-trimmer-replacement-blade-set---carbon-steel",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/32105-replacement-trimmer-t-blade-d-8-straight-front-web.webp",
+   "upc": [],
+   "sourceUrl": "https://andis.com/shop/detail/32105/slimline-pro-li-trimmer-replacement-blade-set---carbon-steel"
+  },
+  {
+   "id": "andis-t-outliner-replacement-blade-carbon-steel",
+   "brand": "Andis",
+   "name": "T-Outliner Replacement Blade - Carbon Steel",
+   "type": "BLADE",
+   "model": "04521",
+   "material": "Carbon steel",
+   "size": null,
+   "color": null,
+   "features": [
+    "Classic shallow-tooth T-blade",
+    "Precision-ground for crisp outlining and edge work",
+    "Refreshes compatible T-Outliner trimmers"
+   ],
+   "fits": [
+    "andis-t-outliner-04780"
+   ],
+   "fitsText": "Fits Andis GTO (corded T-Outliner), GO, SL and SLS trimmers",
+   "priceUsd": 19.99,
+   "buyUrl": "https://andis.com/shop/detail/04521/t-outliner-replacement-blade---carbon-steel",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/04521-replacement-t-blade-gto-gtx-go-straight-front-1-web.webp",
+   "upc": [],
+   "sourceUrl": "https://andis.com/shop/detail/04521/t-outliner-replacement-blade---carbon-steel"
+  },
+  {
+   "id": "andis-master-dual-magnet-large-4-comb-set",
+   "brand": "Andis",
+   "name": "Master Dual Magnet Large 4-Comb Set",
+   "type": "GUARD",
+   "model": "01415",
+   "material": null,
+   "size": "4 large magnetic combs",
+   "color": null,
+   "features": [
+    "Dual magnets for secure fit",
+    "Four large combs for extended cutting lengths",
+    "For blending and longer styles"
+   ],
+   "fits": [
+    "andis-master-adjustable-01815",
+    "andis-master-cordless"
+   ],
+   "fitsText": "Fits Andis Master clippers",
+   "priceUsd": 28.99,
+   "buyUrl": "https://andis.com/shop/detail/01415/Master-Dual-Magnet-Large-4-Comb-Set",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/01415-nano-silver-magnetic-comb-large-set-4-combs-straight.webp",
+   "upc": [],
+   "sourceUrl": "https://andis.com/shop/detail/01415/Master-Dual-Magnet-Large-4-Comb-Set"
+  },
+  {
+   "id": "andis-master-dual-magnet-small-5-comb-set",
+   "brand": "Andis",
+   "name": "Master Dual Magnet Small 5-Comb Set",
+   "type": "GUARD",
+   "model": "560997",
+   "material": null,
+   "size": "5 small magnetic combs",
+   "color": null,
+   "features": [
+    "Dual magnets for secure fit",
+    "For fades and blending",
+    "Built for heavy shop use"
+   ],
+   "fits": [
+    "andis-master-adjustable-01815",
+    "andis-master-cordless"
+   ],
+   "fitsText": "Fits Andis Master clippers",
+   "priceUsd": 32.99,
+   "buyUrl": "https://andis.com/shop/detail/560997/Master-Dual-Magnet-Small-5-Comb-Set",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/560997-dual-magnetic-attachment-comb-set-5pc-ml-mlc-straight-front.webp",
+   "upc": [],
+   "sourceUrl": "https://andis.com/shop/detail/560997/Master-Dual-Magnet-Small-5-Comb-Set"
+  },
+  {
+   "id": "andis-barber-cape-black",
+   "brand": "Andis",
+   "name": "Andis Barber Cape - Black",
+   "type": "CAPE",
+   "model": "560780",
+   "material": null,
+   "size": null,
+   "color": "Black with Andis logo",
+   "features": [
+    "Water repellent",
+    "Anti-static so hair does not stick",
+    "Adjustable snap closure"
+   ],
+   "fits": [],
+   "fitsText": "Universal barber cape (no tool compatibility)",
+   "priceUsd": 16.99,
+   "buyUrl": "https://wbbarber.com/products/andis-barber-cape-black-with-logo-560780",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/AndisBarberCape.png?v=1761579180",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/andis-barber-cape-black-with-logo-560780"
+  },
+  {
+   "id": "andis-cool-care-plus",
+   "brand": "Andis",
+   "name": "Cool Care Plus 5-in-1 Spray",
+   "type": "OTHER",
+   "model": "12750",
+   "material": null,
+   "size": "15.5 oz can",
+   "color": null,
+   "features": [
+    "5-in-1: disinfects, cools, lubricates, cleans and prevents rust",
+    "Reduces blade heat",
+    "Helps extend blade life"
+   ],
+   "fits": [],
+   "fitsText": "Works with all clipper and trimmer blades",
+   "priceUsd": 14.99,
+   "buyUrl": "https://andis.com/shop/detail/12750/Cool-Care-Plus-Can",
+   "imageUrl": "https://cdn-andiswebcontent.azureedge.net/production/images_and_docs/products/12750-cool-care-plus-15.5oz-can-front-cap-on.webp",
+   "upc": [],
+   "sourceUrl": "https://andis.com/shop/detail/12750/Cool-Care-Plus-Can"
+  },
+  {
+   "id": "babylisspro-gold-titanium-mim-precision-fade-blade",
+   "brand": "BaBylissPRO",
+   "name": "Gold Titanium MIM Precision Fade Blade",
+   "type": "BLADE",
+   "model": "FX8022G",
+   "material": "Gold titanium, metal-injection molded",
+   "size": null,
+   "color": "Gold",
+   "features": [
+    "Angled cutting blade for ultra-precise cuts",
+    "Reduced contact area keeps blade cooler",
+    "Built-in oil reservoir"
+   ],
+   "fits": [
+    "babylisspro-fxone-goldfx-clipper",
+    "babylisspro-goldfx-plus-clipper",
+    "babylisspro-fxone-lo-profx-clipper",
+    "babylisspro-fx673ns-lithiumfx-clipper"
+   ],
+   "fitsText": "Fits BaBylissPRO FX899 (FXONE), FX870 (GoldFX/SilverFX/RoseFX), FX829 (FXONE Lo-ProFX), FX825 and FX673 (LithiumFX) clippers",
+   "priceUsd": 54.99,
+   "buyUrl": "https://www.babylisspro.com/gold-titanium-metal-injection-molded-precision-fade-blade/FX8022G.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw59f09c67/images/6-18-24/FX8022G-badge.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/gold-titanium-metal-injection-molded-precision-fade-blade/FX8022G.html"
+  },
+  {
+   "id": "babylisspro-replacement-black-graphite-deep-tooth-t-blade",
+   "brand": "BaBylissPRO",
+   "name": "Replacement Black Graphite Deep Tooth T-Blade",
+   "type": "BLADE",
+   "model": "FX707B2",
+   "material": "Black graphite coated",
+   "size": "2 mm",
+   "color": "Black",
+   "features": [
+    "Deep-tooth T-blade for thick or coarse hair",
+    "Zero-gap adjustable",
+    "Corrosion resistant, low friction"
+   ],
+   "fits": [
+    "babylisspro-goldfx-plus-trimmer",
+    "babylisspro-fx773n-lithiumfx-trimmer"
+   ],
+   "fitsText": "Fits all BaBylissPRO FX797, FX787 (GoldFX+/SilverFX+ trimmers), FX726 and FX773N (LithiumFX) trimmers",
+   "priceUsd": 54.99,
+   "buyUrl": "https://www.babylisspro.com/replacement-black-graphite-deep-tooth-t-blade/FX707B2.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw8adffec3/images/6-18-24/FX707B2%20badge.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/replacement-black-graphite-deep-tooth-t-blade/FX707B2.html"
+  },
+  {
+   "id": "babylisspro-replacement-dlc-titanium-taper-blade",
+   "brand": "BaBylissPRO",
+   "name": "Replacement DLC/Titanium Taper Blade",
+   "type": "BLADE",
+   "model": "FX802G",
+   "material": "Gold DLC/titanium",
+   "size": null,
+   "color": "Gold",
+   "features": [
+    "Crescent-shaped blade for rocking/scooping motion",
+    "High hardness, hypoallergenic",
+    "Lower blade temperature"
+   ],
+   "fits": [
+    "babylisspro-goldfx-plus-clipper",
+    "babylisspro-fx673ns-lithiumfx-clipper"
+   ],
+   "fitsText": "Fits BaBylissPRO FX890, FX870 (GoldFX+), FX825, FX673N and any 2-hole blade system",
+   "priceUsd": 54.99,
+   "buyUrl": "https://www.babylisspro.com/gold-dlc-titanium-replacement-taper-blade/FX802G.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw6246eb80/images/6-18-24/FX802G%20-badge.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/gold-dlc-titanium-replacement-taper-blade/FX802G.html"
+  },
+  {
+   "id": "babylisspro-replacement-gold-titanium-fade-blade",
+   "brand": "BaBylissPRO",
+   "name": "Replacement Gold Titanium Fade Blade",
+   "type": "BLADE",
+   "model": "FX8010G",
+   "material": "Gold titanium (MIM)",
+   "size": null,
+   "color": "Gold",
+   "features": [
+    "Flat, elongated cutting surface for vertical cutting",
+    "22 angled teeth",
+    "Hypoallergenic, lower blade temperature"
+   ],
+   "fits": [
+    "babylisspro-fxone-goldfx-clipper",
+    "babylisspro-goldfx-plus-clipper",
+    "babylisspro-fxone-lo-profx-clipper",
+    "babylisspro-fx673ns-lithiumfx-clipper"
+   ],
+   "fitsText": "Fits BaBylissPRO FX899, FX870, FX829, FX825, FX673 and any 2-hole blade system",
+   "priceUsd": 54.99,
+   "buyUrl": "https://www.babylisspro.com/replacement-gold-titanium-fade-blade/FX8010G.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dwd3b79795/images/6-18-24/FX8010G-badge.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/replacement-gold-titanium-fade-blade/FX8010G.html"
+  },
+  {
+   "id": "babylisspro-replacement-gold-titanium-tri-blade",
+   "brand": "BaBylissPRO",
+   "name": "Replacement Gold Titanium Tri-Blade",
+   "type": "BLADE",
+   "model": "FX603G",
+   "material": "Gold titanium",
+   "size": null,
+   "color": "Gold",
+   "features": [
+    "Short, steep angled blade for fades or tapers",
+    "Hypoallergenic",
+    "Lower blade temperature, low friction"
+   ],
+   "fits": [
+    "babylisspro-goldfx-plus-clipper",
+    "babylisspro-fx673ns-lithiumfx-clipper"
+   ],
+   "fitsText": "Fits BaBylissPRO FX890, FX870, FX825, FX673N and any 2-hole blade system",
+   "priceUsd": 54.99,
+   "buyUrl": "https://babylisspro.com/replacement-gold-titanium-tri-blade/FX603G.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw304eac43/images/6-18-24/FX603g-badge.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://babylisspro.com/replacement-gold-titanium-tri-blade/FX603G.html"
+  },
+  {
+   "id": "babylisspro-replacement-stainless-steel-fade-blade",
+   "brand": "BaBylissPRO",
+   "name": "Replacement Stainless Steel Fade Blade",
+   "type": "BLADE",
+   "model": "FX8010J",
+   "material": "Stainless steel",
+   "size": null,
+   "color": "Silver",
+   "features": [
+    "Flat, elongated cutting surface for vertical cutting",
+    "High hardness, corrosion resistant",
+    "Ultra-low friction"
+   ],
+   "fits": [
+    "babylisspro-goldfx-plus-clipper",
+    "babylisspro-fx673ns-lithiumfx-clipper"
+   ],
+   "fitsText": "Fits BaBylissPRO FX890, FX870, FX825, FX673N and any 2-hole blade system",
+   "priceUsd": 36.99,
+   "buyUrl": "https://www.babylisspro.com/replacement-stainless-steel-fade-blade/FX8010J.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dwd3e60c62/images/6-18-24/FX8010J%20-badge.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/replacement-stainless-steel-fade-blade/FX8010J.html"
+  },
+  {
+   "id": "babylisspro-replacement-trimmer-blade-fx708z",
+   "brand": "BaBylissPRO",
+   "name": "Replacement Trimmer Blade (Standard Tooth)",
+   "type": "BLADE",
+   "model": "FX708Z",
+   "material": "Stainless steel",
+   "size": null,
+   "color": "Silver",
+   "features": [
+    "Standard-tooth T-blade",
+    "Zero-gap adjustable",
+    "Corrosion resistant; suits sensitive skin"
+   ],
+   "fits": [
+    "babylisspro-goldfx-plus-trimmer"
+   ],
+   "fitsText": "Fits all BaBylissPRO FX788 trimmers and 2-hole trimmer systems including the SilverFX+ All-Metal Lithium Outlining Trimmer",
+   "priceUsd": 29.99,
+   "buyUrl": "https://www.babylisspro.com/replacement-trimmer-blade/FX708Z.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw39426d9c/images/6-18-24/FX708Z%20-badge.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/replacement-trimmer-blade/FX708Z.html"
+  },
+  {
+   "id": "babylisspro-uv-disinfecting-single-replacement-foil",
+   "brand": "BaBylissPRO",
+   "name": "UV-Disinfecting Single Replacement Foil",
+   "type": "BLADE",
+   "model": "FXLRF1G",
+   "material": "Gold titanium",
+   "size": null,
+   "color": "Gold",
+   "features": [
+    "Replacement single foil and blade",
+    "Hypoallergenic gold titanium"
+   ],
+   "fits": [
+    "babylisspro-fxlfs2-uvfoil-double-foil-shaver"
+   ],
+   "fitsText": "Replacement foil and blade for the BaBylissPRO UVFOIL shaver",
+   "priceUsd": 34.99,
+   "buyUrl": "https://www.babylisspro.com/uv-disinfecting-single-replacement-foil/FXLRF1G.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw29e7dc56/images/1-4-24/FXLRF1G_UV_FOIL_BLADES_s.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/uv-disinfecting-single-replacement-foil/FXLRF1G.html"
+  },
+  {
+   "id": "babylisspro-comb-set-fx870-fx880-fx673-fx825",
+   "brand": "BaBylissPRO",
+   "name": "Comb Set for All FX870 Models, FX880, FX673, FX825",
+   "type": "GUARD",
+   "model": "FXCS880",
+   "material": null,
+   "size": "8 guards #0.5-#6 (1/16\"-3/4\")",
+   "color": null,
+   "features": [
+    "8 comb attachments",
+    "Sizes 1/16\", 1/8\", 3/16\", 1/4\", 3/8\", 1/2\", 5/8\", 3/4\""
+   ],
+   "fits": [
+    "babylisspro-goldfx-plus-clipper",
+    "babylisspro-fx673ns-lithiumfx-clipper"
+   ],
+   "fitsText": "Fits all BaBylissPRO FX870 models, FX880, FX673 and FX825",
+   "priceUsd": null,
+   "buyUrl": "https://babylisspro.com/FXCS880.html",
+   "imageUrl": null,
+   "upc": [],
+   "sourceUrl": "https://babylisspro.com/FXCS880.html"
+  },
+  {
+   "id": "babylisspro-fx3-replacement-clipper-guards",
+   "brand": "BaBylissPRO",
+   "name": "FX3 Replacement Clipper Guards",
+   "type": "GUARD",
+   "model": "FXX3CGR",
+   "material": null,
+   "size": "8 guards #0.5-#6",
+   "color": null,
+   "features": [
+    "8 comb attachments: 0.5, 1, 1.5, 2, 3, 4, 5, 6",
+    "Durable, consistent cutting lengths"
+   ],
+   "fits": [
+    "babylisspro-fx3-clipper"
+   ],
+   "fitsText": "Fits FX3 clippers only (FXX3C and FXX3CB)",
+   "priceUsd": 24.99,
+   "buyUrl": "https://www.babylisspro.com/fx3-replacement-clipper-guards/FXX3CGR.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw962171c0/images/5-23-23/fxx3cgr_pkg_front.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/fx3-replacement-clipper-guards/FXX3CGR.html"
+  },
+  {
+   "id": "babylisspro-magnetic-clipper-guards",
+   "brand": "BaBylissPRO",
+   "name": "Magnetic Clipper Guards (6-pc)",
+   "type": "GUARD",
+   "model": "FXPCMG",
+   "material": null,
+   "size": "6 guards #0.5-#4 (1/16\"-1/2\")",
+   "color": null,
+   "features": [
+    "Ultra-thin magnetic guards",
+    "Thin, profiled teeth for control",
+    "Magnets lock firmly in place"
+   ],
+   "fits": [
+    "babylisspro-goldfx-plus-clipper",
+    "babylisspro-fx673ns-lithiumfx-clipper"
+   ],
+   "fitsText": "Fits all BaBylissPRO 2-hole clippers (e.g. FX870 GoldFX+ and FX673N LithiumFX)",
+   "priceUsd": 37.99,
+   "buyUrl": "https://www.babylisspro.com/FXPCMG.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dwe78a573a/FXPCMG.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/FXPCMG.html"
+  },
+  {
+   "id": "babylisspro-deluxe-nylon-cutting-cape",
+   "brand": "BaBylissPRO",
+   "name": "Deluxe Nylon Cutting Cape - Snap Neck Closure",
+   "type": "CAPE",
+   "model": "BES360SNBKUCC",
+   "material": "Nylon",
+   "size": "Cape 54\" x 60\"",
+   "color": "Black",
+   "features": [
+    "Adjustable neck with 5 stainless steel snaps",
+    "Water resistant",
+    "Extra-large coverage"
+   ],
+   "fits": [],
+   "fitsText": "Universal barber cape (no tool compatibility)",
+   "priceUsd": null,
+   "buyUrl": "https://www.coifferie.com/us/go/product/19484940",
+   "imageUrl": "https://cdn.shoplightspeed.com/shops/617620/files/63142755/babyliss-pro-deluxe-nylon-cutting-cape-neck-closur.jpg",
+   "upc": [],
+   "sourceUrl": "https://www.coifferie.com/us/go/product/19484940"
+  },
+  {
+   "id": "babylisspro-lo-profx-compact-3-in-1-charging-stand",
+   "brand": "BaBylissPRO",
+   "name": "LO-PROFX Compact Series 3-in-1 Charging Stand",
+   "type": "OTHER",
+   "model": "FXCLPB",
+   "material": null,
+   "size": null,
+   "color": null,
+   "features": [
+    "Charges clipper, trimmer and shaver on one base",
+    "Dual voltage",
+    "USB-C (cord not included)"
+   ],
+   "fits": [
+    "babylisspro-fx82-lo-profx-compact-clipper",
+    "babylisspro-fx72-lo-profx-compact-trimmer",
+    "babylisspro-fxlpfs1-lo-profx-compact-single-foil-shaver"
+   ],
+   "fitsText": "Fits all LO-PROFX Compact Series tools (FX82 clipper, FX72 trimmer, FXLPFS1 shaver)",
+   "priceUsd": 49.99,
+   "buyUrl": "https://www.babylisspro.com/lo-pro-fx-compact-series-3-in-1-charging-stand/FXCLPB.html",
+   "imageUrl": "https://www.babylisspro.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us-babylisspro/default/dw8de82ad3/FXCLPB_front.jpg?sw=1200&sh=1200&sm=fit",
+   "upc": [],
+   "sourceUrl": "https://www.babylisspro.com/lo-pro-fx-compact-series-3-in-1-charging-stand/FXCLPB.html"
+  },
+  {
+   "id": "jrl-professional-ez-gap-fade-precision-blade-set",
+   "brand": "JRL Professional",
+   "name": "EZ-GAP Fade Precision Replacement Blade Set",
+   "type": "BLADE",
+   "model": "BF05",
+   "material": null,
+   "size": null,
+   "color": null,
+   "features": [
+    "Consistently sharp for smooth fades",
+    "Rust-free",
+    "Stays cool during extended use"
+   ],
+   "fits": [
+    "jrl-diamante-2025c-clipper"
+   ],
+   "fitsText": "Fits the JRL x Lamborghini Diamante clipper",
+   "priceUsd": 45.0,
+   "buyUrl": "https://wbbarber.com/products/jrl-ez-gap-fade-precision-replacement-blade-set-bf05",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/jrl-ez-gap-fade-precision-replacement-blade.jpg?v=1778882559",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/jrl-ez-gap-fade-precision-replacement-blade-set-bf05"
+  },
+  {
+   "id": "jrl-professional-ff2020c-fade-precision-blade",
+   "brand": "JRL Professional",
+   "name": "FF2020C Fade Precision Blade",
+   "type": "BLADE",
+   "model": "BF04",
+   "material": "Stainless steel, aluminum-coated",
+   "size": null,
+   "color": "Silver / Gold / Black",
+   "features": [
+    "Designed for fades",
+    "Self-sharpening, rust-free",
+    "Moving and stationary blade set"
+   ],
+   "fits": [
+    "jrl-freshfade-2020c-clipper"
+   ],
+   "fitsText": "Fits the JRL FreshFade 2020C clipper",
+   "priceUsd": 29.0,
+   "buyUrl": "https://wbbarber.com/products/jrl-ff2020c-fade-precision-blade",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/JR3001.jpg?v=1659732730",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/jrl-ff2020c-fade-precision-blade"
+  },
+  {
+   "id": "jrl-professional-ff2020c-standard-taper-blade",
+   "brand": "JRL Professional",
+   "name": "FF2020C Standard Taper Blade",
+   "type": "BLADE",
+   "model": "BF03 (Gold: BF03G)",
+   "material": "Stainless steel, aluminum-coated",
+   "size": null,
+   "color": "Silver / Gold",
+   "features": [
+    "Self-sharpening, rust-free",
+    "Moving and stationary blade set",
+    "Standard blade on the FF2020C clipper; fits 2-hole blade systems"
+   ],
+   "fits": [
+    "jrl-freshfade-2020c-clipper"
+   ],
+   "fitsText": "Fits the JRL FreshFade 2020C clipper (also 2-hole blade systems per Coifferie)",
+   "priceUsd": 29.5,
+   "buyUrl": "https://wbbarber.com/products/jrl-ff2020c-standard-taper-blade",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/51cTpBBwXeL._SL1500.jpg?v=1751371354",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/jrl-ff2020c-standard-taper-blade"
+  },
+  {
+   "id": "jrl-professional-ff2020t-ez-gap-trimmer-blade",
+   "brand": "JRL Professional",
+   "name": "FF2020T EZ-GAP Trimmer Blade",
+   "type": "BLADE",
+   "model": "SF08 / SF08-G / SF09",
+   "material": "Stainless steel; ceramic (silver) or metal (black) moving blade",
+   "size": null,
+   "color": "Silver / Gold / Black",
+   "features": [
+    "Includes on-tool tension/gap tool",
+    "Self-sharpening, rust-free",
+    "Moving and stationary blade set"
+   ],
+   "fits": [
+    "jrl-freshfade-2020t-trimmer"
+   ],
+   "fitsText": "Fits the JRL FreshFade 2020T trimmer",
+   "priceUsd": 25.0,
+   "buyUrl": "https://wbbarber.com/products/jrl-ff2020t-ez-gap-trimmer-blade",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/SF08_Site_GoldWeb.jpg?v=1701878240",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/jrl-ff2020t-ez-gap-trimmer-blade"
+  },
+  {
+   "id": "jrl-professional-ff2020t-standard-t-blade",
+   "brand": "JRL Professional",
+   "name": "FF2020T Standard T-Blade",
+   "type": "BLADE",
+   "model": "SF07 (Gold: SF07G)",
+   "material": "Stainless steel, aluminum-coated",
+   "size": null,
+   "color": "Silver / Gold",
+   "features": [
+    "Zero-gap adjustable screw",
+    "Self-sharpening, rust-free",
+    "Standard blade on the FF2020T trimmer"
+   ],
+   "fits": [
+    "jrl-freshfade-2020t-trimmer"
+   ],
+   "fitsText": "Fits the JRL FreshFade 2020T trimmer",
+   "priceUsd": null,
+   "buyUrl": "https://www.coifferie.com/us/go/product/58151187",
+   "imageUrl": "https://cdn.shoplightspeed.com/shops/617620/files/55979919/image.jpg",
+   "upc": [],
+   "sourceUrl": "https://www.coifferie.com/us/go/product/58151187"
+  },
+  {
+   "id": "jrl-professional-sb01-single-foil-replacement-head",
+   "brand": "JRL Professional",
+   "name": "SB01 Magnetic Single Foil Shaver Replacement Head",
+   "type": "BLADE",
+   "model": "SB01",
+   "material": null,
+   "size": null,
+   "color": "Black",
+   "features": [
+    "Magnetic levitation technology",
+    "Ultra-thin, skin-friendly foil",
+    "Standard head on the SH2301 Onyx SF Pro-Shaver"
+   ],
+   "fits": [
+    "jrl-onyx-sf-pro-shaver",
+    "jrl-ghost-sf-pro-shaver"
+   ],
+   "fitsText": "Fits all SH2301 Onyx SF Pro-Shaver models (incl. Ghost SH2301-W)",
+   "priceUsd": null,
+   "buyUrl": "https://www.coifferie.com/us/go/product/63866468",
+   "imageUrl": "https://cdn.shoplightspeed.com/shops/617620/files/64974209/image.jpg",
+   "upc": [],
+   "sourceUrl": "https://www.coifferie.com/us/go/product/63866468"
+  },
+  {
+   "id": "jrl-professional-ff2020-premium-double-magnetic-clipper-guards",
+   "brand": "JRL Professional",
+   "name": "FF2020 Premium Double Magnetic Clipper Guards",
+   "type": "GUARD",
+   "model": null,
+   "material": null,
+   "size": "6 guards 1/16\"-1/2\"",
+   "color": null,
+   "features": [
+    "Double magnetic design",
+    "Sizes 0 (1/16\"), 1, 1-1/2, 2, 3, 4 (1/2\")"
+   ],
+   "fits": [],
+   "fitsText": "Fits most professional clippers (FF2020 line per name; no model list given)",
+   "priceUsd": 19.0,
+   "buyUrl": "https://wbbarber.com/products/jrl-ff2020-premium-double-magnetic-clipper-guards",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/Guard5Set01.jpg?v=1753814150",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/jrl-ff2020-premium-double-magnetic-clipper-guards"
+  },
+  {
+   "id": "jrl-professional-cutting-cape-black",
+   "brand": "JRL Professional",
+   "name": "Professional Cutting Cape - Black",
+   "type": "CAPE",
+   "model": "JRL021",
+   "material": null,
+   "size": null,
+   "color": "Black",
+   "features": [
+    "Water resistant, easy to clean",
+    "Anti-static",
+    "Adjustable snap closure"
+   ],
+   "fits": [],
+   "fitsText": "Universal barber cape (no tool compatibility)",
+   "priceUsd": null,
+   "buyUrl": "https://www.ozhairandbeauty.com/products/jrl-professional-cutting-cape-black",
+   "imageUrl": "https://cdn.shopify.com/s/files/1/1588/9573/files/JRL_BlackCape__75438.jpg?v=1716268799",
+   "upc": [],
+   "sourceUrl": "https://www.ozhairandbeauty.com/products/jrl-professional-cutting-cape-black"
+  },
+  {
+   "id": "jrl-professional-charging-dock-ff2020c-ff2020t",
+   "brand": "JRL Professional",
+   "name": "Charging Dock for FF2020C and FF2020T",
+   "type": "OTHER",
+   "model": null,
+   "material": null,
+   "size": null,
+   "color": null,
+   "features": [
+    "Charging dock for FreshFade 2020 clipper or trimmer",
+    "Tool not included"
+   ],
+   "fits": [
+    "jrl-freshfade-2020c-clipper",
+    "jrl-freshfade-2020t-trimmer"
+   ],
+   "fitsText": "Fits either the JRL FF2020C clipper or FF2020T trimmer",
+   "priceUsd": 18.0,
+   "buyUrl": "https://wbbarber.com/products/jrl-charging-dock-for-ff2020c-and-ff2020t",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/JRL-C01_TOP.jpg?v=1675791956",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/jrl-charging-dock-for-ff2020c-and-ff2020t"
+  },
+  {
+   "id": "wahl-2-hole-blade-1006",
+   "brand": "Wahl",
+   "name": "2-Hole Clipper Blade",
+   "type": "BLADE",
+   "model": "1006",
+   "material": "Stainless steel",
+   "size": null,
+   "color": null,
+   "features": [
+    "Rust resistant",
+    "Includes oil and screws"
+   ],
+   "fits": [
+    "wahl-5-star-magic-clip-corded",
+    "wahl-sterling-reflections-senior"
+   ],
+   "fitsText": "Fits Wahl Super Taper, Super Taper II, Pro Basic, Icon, Taper 2000, 5 Star Senior, Magic Clip, Reflections Senior, Sterling 3 and Sterling 9",
+   "priceUsd": 22.99,
+   "buyUrl": "https://wbbarber.com/products/wahl-2-hole-blade-1006",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/WA3004_5471d468-acff-4184-b6e8-04d5e761d65d.jpg?v=1746018021",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-2-hole-blade-1006"
+  },
+  {
+   "id": "wahl-3-hole-senior-blade-1005",
+   "brand": "Wahl",
+   "name": "3-Hole Senior Blade",
+   "type": "BLADE",
+   "model": "1005",
+   "material": "Stainless steel",
+   "size": null,
+   "color": null,
+   "features": [
+    "3-hole blade",
+    "Rust resistant",
+    "Includes oil and screws"
+   ],
+   "fits": [
+    "wahl-cordless-sterling-4"
+   ],
+   "fitsText": "Fits Wahl Senior, Designer, Cordless Designer, Pilot, Vacuum Clipper, Sterling 4, Cordless Sterling 4, Nugget and Sterling 1 Plus",
+   "priceUsd": 22.99,
+   "buyUrl": "https://wbbarber.com/products/wahl-3-hole-senior-blade-1005",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/WA3003_feb405ce-046e-4b13-951e-2405fa7af26f.jpg?v=1746018020",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-3-hole-senior-blade-1005"
+  },
+  {
+   "id": "wahl-5-star-adjustable-blade-2191",
+   "brand": "Wahl",
+   "name": "5-Star Adjustable Clipper Blade",
+   "type": "BLADE",
+   "model": "2191",
+   "material": null,
+   "size": "Adjustable 0000",
+   "color": null,
+   "features": [
+    "Zero-overlap capable for precision fading",
+    "Stagger-tooth design for blending and texture",
+    "Made in USA; includes oil and screws"
+   ],
+   "fits": [
+    "wahl-5-star-magic-clip-corded",
+    "wahl-sterling-reflections-senior"
+   ],
+   "fitsText": "Fits Wahl 08451 (5-Star Magic Clip corded), 08545 and 08501 (Sterling Reflections Senior)",
+   "priceUsd": 22.99,
+   "buyUrl": "https://wbbarber.com/products/wahl-2191-5-star-blade",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/WA3001-1_5f54aa7b-1d5e-4b95-bd4b-6d68b59a500c.jpg?v=1746018018",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-2191-5-star-blade"
+  },
+  {
+   "id": "wahl-balding-blade-2105",
+   "brand": "Wahl",
+   "name": "5-Star Balding Blade (6X0)",
+   "type": "BLADE",
+   "model": "2105",
+   "material": "Stainless steel",
+   "size": "6X0",
+   "color": null,
+   "features": [
+    "Ultra-close full-size trim",
+    "For outlining and full-head balding",
+    "Made in USA; includes oil and screws"
+   ],
+   "fits": [
+    "wahl-5-star-balding-clipper"
+   ],
+   "fitsText": "Fits the Wahl 5-Star Balding Clipper",
+   "priceUsd": 22.99,
+   "buyUrl": "https://wbbarber.com/products/wahl-2105-balding-blade",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/WA3002_32c8072c-6429-4119-850d-d0ccdd2b7d00.jpg?v=1746018019",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-2105-balding-blade"
+  },
+  {
+   "id": "wahl-5-star-stagger-tooth-crunch-blade-2161",
+   "brand": "Wahl",
+   "name": "5-Star Stagger-Tooth (Crunch) Blade",
+   "type": "BLADE",
+   "model": "2161",
+   "material": "High-carbon steel with DLC and titanium coatings",
+   "size": null,
+   "color": null,
+   "features": [
+    "Stagger-tooth blade blends and textures while cutting",
+    "For hard or soft line fading",
+    "Stays sharper 4x longer than standard steel (per SalonCentric)",
+    "Made in USA; includes oil and screws"
+   ],
+   "fits": [
+    "wahl-magic-clip-cordless",
+    "wahl-5-star-magic-clip-gold-black"
+   ],
+   "fitsText": "Fits Wahl 5-Star Cordless Magic Clip (8148) and Gold Cordless Magic Clip (8148-700)",
+   "priceUsd": 22.99,
+   "buyUrl": "https://wbbarber.com/products/wahl-2161-5-star-crunch-blade",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/WA3015-01.jpg?v=1746018087",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-2161-5-star-crunch-blade"
+  },
+  {
+   "id": "wahl-finale-foil-head-with-cutter",
+   "brand": "Wahl",
+   "name": "Finale Foil Head with Cutter",
+   "type": "BLADE",
+   "model": "07043",
+   "material": null,
+   "size": null,
+   "color": null,
+   "features": [
+    "Replacement foil and cutter bar assembly",
+    "Super-close cutting foil"
+   ],
+   "fits": [
+    "wahl-finale-shaver"
+   ],
+   "fitsText": "Fits only the Wahl 5-Star Finale shaver",
+   "priceUsd": 20.49,
+   "buyUrl": "https://wbbarber.com/products/wahl-finale-foil-head-with-cutter",
+   "imageUrl": "https://wbbarber.com/cdn/shop/files/7043-hero-3000x3000-min.webp?v=1746018044",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-finale-foil-head-with-cutter"
+  },
+  {
+   "id": "wahl-shaver-shaper-replacement-foil-cutter-bar-red",
+   "brand": "Wahl",
+   "name": "Shaver/Shaper Replacement Foil & Cutter Bar Assembly (Red)",
+   "type": "BLADE",
+   "model": "07031-100",
+   "material": null,
+   "size": null,
+   "color": "Red",
+   "features": [
+    "Replacement foil head with cutter bar",
+    "Restores the shaver to like-new condition",
+    "Close shave without irritation"
+   ],
+   "fits": [
+    "wahl-5-star-shaver-shaper"
+   ],
+   "fitsText": "Fits only the Wahl 5-Star Shaver/Shaper (#8061-100)",
+   "priceUsd": 24.99,
+   "buyUrl": "https://wahlpro.com/store/5-star/shaver-shaper-replacement-07031-100.html",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/WA3009.jpg?v=1746018026",
+   "upc": [],
+   "sourceUrl": "https://wahlpro.com/store/5-star/shaver-shaper-replacement-07031-100.html"
+  },
+  {
+   "id": "wahl-t-wide-blade-2215",
+   "brand": "Wahl",
+   "name": "T-Wide Trimmer Blade",
+   "type": "BLADE",
+   "model": "2215",
+   "material": "Stainless steel",
+   "size": null,
+   "color": null,
+   "features": [
+    "About 1/4\" wider than the standard Wahl T-blade",
+    "Adjustable with zero-overlap capability",
+    "For facial hair, lines and design work",
+    "Includes oil and screws"
+   ],
+   "fits": [
+    "wahl-5-star-detailer-corded"
+   ],
+   "fitsText": "Fits the Wahl 5-Star Detailer",
+   "priceUsd": 22.99,
+   "buyUrl": "https://wbbarber.com/products/wahl-t-wide-blade-2215",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/WA3005-1_9620b99a-85cb-4caa-9b6b-8bc8783672fc.jpg?v=1746018022",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-t-wide-blade-2215"
+  },
+  {
+   "id": "wahl-vanish-cutter-foil-head",
+   "brand": "Wahl",
+   "name": "Vanish Cutter & Foil Head",
+   "type": "BLADE",
+   "model": "3022905",
+   "material": null,
+   "size": null,
+   "color": "Black / gold",
+   "features": [
+    "Individual foils pop out to replace or rotate",
+    "Independent cutter bars with dual suspension follow contours"
+   ],
+   "fits": [
+    "wahl-vanish-shaver"
+   ],
+   "fitsText": "Replacement foil & cutter head for the Wahl 5-Star Vanish double foil shaver",
+   "priceUsd": 31.99,
+   "buyUrl": "https://www.wahlpro.com/shop/vanish-cutter-foil-head-3022905",
+   "imageUrl": null,
+   "upc": [
+    "0043917002866"
+   ],
+   "sourceUrl": "https://www.wahlpro.com/shop/vanish-cutter-foil-head-3022905"
+  },
+  {
+   "id": "wahl-color-coded-cutting-guides-1-8",
+   "brand": "Wahl",
+   "name": "Cutting Guides #1-#8 - Color-Coded",
+   "type": "GUARD",
+   "model": "03170-400",
+   "material": null,
+   "size": "8 guides 1/8\"-1\"",
+   "color": "Color-coded (8 colors)",
+   "features": [
+    "8 color-coded guides",
+    "Organizer tray included",
+    "Fits all full-size Wahl blades except Competition Series and 5-in-1"
+   ],
+   "fits": [
+    "wahl-magic-clip-cordless",
+    "wahl-5-star-magic-clip-gold-black",
+    "wahl-5-star-magic-clip-corded",
+    "wahl-cordless-senior",
+    "wahl-5-star-senior-2",
+    "wahl-5-star-legend",
+    "wahl-sterling-reflections-senior",
+    "wahl-cordless-sterling-4",
+    "wahl-vapor-cordless",
+    "wahl-vapor-switch",
+    "wahl-super-taper-x"
+   ],
+   "fitsText": "Fits all Wahl full-size clipper blades except Competition Series and 5-in-1 blades (per WB Barber listing)",
+   "priceUsd": 22.99,
+   "buyUrl": "https://www.wahlpro.com/shop/blistered-1-8-cutting-guides-color-coded-03170-400",
+   "imageUrl": "https://www.wahlpro.com/media/catalog/product/a/t/attachment_comb_set_colored.png?width=1920&quality=85&format=pjpg",
+   "upc": [],
+   "sourceUrl": "https://www.wahlpro.com/shop/blistered-1-8-cutting-guides-color-coded-03170-400"
+  },
+  {
+   "id": "wahl-premium-cutting-guides-1-8-organizer",
+   "brand": "Wahl",
+   "name": "Premium Cutting Guides #1-#8 with Organizer",
+   "type": "GUARD",
+   "model": "03171-500",
+   "material": "Glass- and mineral-filled plastic with metal clip",
+   "size": "8 guides #1-#8",
+   "color": "Black",
+   "features": [
+    "Metal clip keeps guide secure on the blade",
+    "Rounded teeth for client comfort",
+    "Organizer included"
+   ],
+   "fits": [],
+   "fitsText": "Fits all Wahl vibrator (magnetic-motor) clippers per WB Barber; model list not given",
+   "priceUsd": 34.99,
+   "buyUrl": "https://www.wahlpro.com/shop/premium-cutting-guides-1-8-guides-w-organizer-03171-500",
+   "imageUrl": "https://www.wahlpro.com/media/catalog/product/a/t/attachment_comb_set_1.png?width=1920&quality=85&format=pjpg",
+   "upc": [],
+   "sourceUrl": "https://www.wahlpro.com/shop/premium-cutting-guides-1-8-guides-w-organizer-03171-500"
+  },
+  {
+   "id": "wahl-5-star-cape",
+   "brand": "Wahl",
+   "name": "5 Star Cape (Snap Closure, Embroidered Logo)",
+   "type": "CAPE",
+   "model": "WA4000C (retailer SKU)",
+   "material": "100% polyester",
+   "size": "Cape 54\" x 63\"",
+   "color": null,
+   "features": [
+    "Embroidered Wahl 5 Star logo",
+    "Water resistant, bleach proof, color-cream resistant",
+    "Static free",
+    "Adjustable snap collar"
+   ],
+   "fits": [],
+   "fitsText": "Universal barber cape (no tool compatibility)",
+   "priceUsd": 29.99,
+   "buyUrl": "https://wbbarber.com/products/wahl-5-star-cape-snap-closure-embroidered-logo",
+   "imageUrl": "https://wbbarber.com/cdn/shop/products/qhjdwwoc1fzwrtdyrjse.jpg?v=1746018005",
+   "upc": [],
+   "sourceUrl": "https://wbbarber.com/products/wahl-5-star-cape-snap-closure-embroidered-logo"
+  },
+  {
+   "id": "wahl-clipper-oil-4oz",
+   "brand": "Wahl",
+   "name": "Wahl Clipper Oil - 4 oz",
+   "type": "OTHER",
+   "model": "03310",
+   "material": null,
+   "size": "4 oz",
+   "color": null,
+   "features": [
+    "Clipper blade lubricating oil"
+   ],
+   "fits": [],
+   "fitsText": "Works with all Wahl clipper and trimmer blades",
+   "priceUsd": 4.99,
+   "buyUrl": "https://www.wahlpro.com/shop/wahl-oil-4oz-03310",
+   "imageUrl": "https://www.wahlpro.com/media/converted/catalog/product/d/h/dhcssxtcshxhmbzchnm8_03310_qgwsk17efkgayxvc.webp?width=1920&quality=85",
+   "upc": [],
+   "sourceUrl": "https://www.wahlpro.com/barbers-stylists/accessories"
+  }
+ ]
+}

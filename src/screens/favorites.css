@@ -1,0 +1,40 @@
+/* FavoritesScreen.kt: FavoritesScreen + ShowModeScreen */
+.fav-show-btn { width: calc(100% - 32px); margin: 0 16px; height: 54px; border-radius: 14px; flex: 0 0 auto; }
+.fav-empty { flex: 1 1 auto; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px; text-align: center; color: gray; }
+.fav-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; padding: 16px; align-content: start; }
+.fav-card { display: block; width: 100%; text-align: left; border: 0; padding: 0; border-radius: 16px; background: var(--card); overflow: hidden; color: inherit; font: inherit; }
+.fav-photo { width: 100%; aspect-ratio: 1 / 1; background: var(--photo-bg); padding: 10px; }
+.fav-info { padding: 10px; }
+.fav-brand { font-size: 10px; font-weight: 900; }
+.fav-name { color: #fff; font-size: 14px; font-weight: 700; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* Show mode */
+.show { position: relative; height: 100%; width: 100%; background: #000; overflow: hidden; }
+.show-grid {
+  position: absolute; inset: 0; pointer-events: none;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: 40px 40px; animation: show-grid-move 3200ms linear infinite;
+}
+@keyframes show-grid-move { from { background-position: 0 0; } to { background-position: 40px 40px; } }
+.show-pager { position: absolute; inset: 0; display: flex; flex-direction: row; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; }
+.show-pager::-webkit-scrollbar { display: none; }
+.show-page { flex: 0 0 100%; width: 100%; height: 100%; scroll-snap-align: start; scroll-snap-stop: always; overflow-y: auto; padding: 24px; cursor: pointer; display: flex; flex-direction: column; align-items: center; scrollbar-width: none; }
+.show-page::-webkit-scrollbar { display: none; }
+.show-inner { margin: auto 0; display: flex; flex-direction: column; align-items: center; width: 100%; }
+.show-glowbox { position: relative; width: 300px; height: 300px; display: flex; align-items: center; justify-content: center; flex: 0 0 auto; }
+.show-glow { position: absolute; inset: 0; border-radius: 50%; animation: show-glow 2000ms linear infinite alternate; }
+@keyframes show-glow { from { opacity: 0.25; } to { opacity: 0.6; } }
+.show-photo { position: relative; width: 260px; height: 260px; border-radius: 32px; background: var(--photo-bg); padding: 18px; overflow: hidden; }
+.show-brand { font-weight: 900; letter-spacing: 3px; margin-top: 24px; }
+.show-name { color: #fff; font-size: 30px; font-weight: 900; text-align: center; line-height: 34px; }
+.show-model { color: var(--muted); font-size: 14px; }
+.show-specs { width: 85%; margin-top: 18px; }
+.show-spec { display: flex; padding: 4px 0; font-size: 16px; }
+.show-spec .l { flex: 1 1 0; color: var(--muted); }
+.show-spec .v { color: #fff; font-weight: 700; text-align: right; }
+.show-dots { position: absolute; left: 0; right: 0; bottom: 24px; display: flex; justify-content: center; gap: 6px; align-items: center; pointer-events: none; }
+.show-dot { border-radius: 50%; background: gray; }
+.show-dot.on { background: #fff; }
+.show-paused { position: absolute; top: 20px; left: 50%; transform: translateX(-50%); color: #fff; font-size: 12px; background: rgba(0, 0, 0, 0.6); border-radius: 8px; padding: 6px 12px; pointer-events: none; white-space: nowrap; }
+.show-close { position: absolute; top: 8px; right: 8px; z-index: 3; }
+@media (max-height: 640px) { .show-glowbox { width: 220px; height: 220px; } .show-photo { width: 190px; height: 190px; } .show-name { font-size: 24px; line-height: 28px; } }
