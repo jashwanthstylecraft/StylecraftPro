@@ -33,7 +33,9 @@ if (import.meta.env.PROD && 'serviceWorker' in navigator) {
       if (reg.waiting && navigator.serviceWorker.controller) showUpdateBar(reg.waiting)
       reg.addEventListener('updatefound', () => watch(reg.installing))
     }).catch(() => { /* not available (e.g. private mode): the app still works online */ })
+    // Reload once after UPDATE is tapped. On the very first visit the worker also takes control, but there is nothing to switch from.
+    const hadController = !!navigator.serviceWorker.controller
     let reloading = false
-    navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloading) { reloading = true; window.location.reload() } })
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (hadController && !reloading) { reloading = true; window.location.reload() } })
   })
 }
