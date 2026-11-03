@@ -188,7 +188,14 @@ function useBoot() {
   // Leads captured offline are sent to the team sheet automatically once the phone is online again.
   useEffect(() => {
     if (!signedIn) return
-    const sync = () => { void LeadStore.syncPending(ProductRepository.products.get(), TeamSync.sendLeads) }
+    const sync = () => {
+      void LeadStore.syncPending(ProductRepository.products.get(), TeamSync.sendLeads)
+      // a crash saved by the error screen is reported once, then forgotten
+      try {
+        const raw = localStorage.getItem('last_crash')
+        if (raw && navigator.onLine) void TeamSync.sendCrash(JSON.parse(raw)).then(ok => { if (ok) localStorage.removeItem('last_crash') })
+      } catch { /* storage unavailable or unreadable report */ }
+    }
     sync()
     window.addEventListener('online', sync)
     return () => window.removeEventListener('online', sync)

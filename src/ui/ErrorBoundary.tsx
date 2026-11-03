@@ -8,8 +8,8 @@ export class ErrorBoundary extends Component<{ children: ReactNode }, { failed: 
   static getDerivedStateFromError() { return { failed: true } }
 
   componentDidCatch(error: unknown) {
-    // Kept on this device so it can be sent to support (a remote error service can be plugged in here later).
-    try { localStorage.setItem('last_crash', JSON.stringify({ at: new Date().toISOString(), message: String((error as Error)?.message ?? error), stack: String((error as Error)?.stack ?? '').slice(0, 2000) })) } catch { /* storage unavailable */ }
+    // Kept on this device; App sends it to the team sheet ("Crashes" tab) the next time a rep is signed in and online.
+    try { localStorage.setItem('last_crash', JSON.stringify({ at: new Date().toISOString(), message: String((error as Error)?.message ?? error), stack: String((error as Error)?.stack ?? '').slice(0, 2000), screen: location.hash })) } catch { /* storage unavailable */ }
     console.error(error)
   }
 

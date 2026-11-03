@@ -55,6 +55,7 @@ function doPost(e) {
       if (body.type === 'session') return reply({ ok: true, message: 'Signed in as ' + who.name, region: who.region || '' });
       if (body.type === 'changePassword') return reply(changePassword(who, body.password, body.newPassword));
       if (body.type === 'measurement') return reply(saveMeasurement(body));
+      if (body.type === 'crash') return reply(saveCrash(body, who));
       if (body.type === 'leads') {
         (body.leads || []).forEach(l => { l.rep = who.name || l.rep; l.region = who.region || l.region || ''; });   // rep + region come from the account
         return reply(saveLeads(body.leads || []));
@@ -74,6 +75,16 @@ function doGet() {
 
 function reply(obj) {
   return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(ContentService.MimeType.JSON);
+}
+
+/** App crash reports go to a "Crashes" tab of the leads sheet (created automatically). Keeps the newest 500 rows. */
+function saveCrash(b, who) {
+  const ss = LEADS_SPREADSHEET_ID ? SpreadsheetApp.openById(LEADS_SPREADSHEET_ID) : SpreadsheetApp.getActive();
+  let sh = ss.getSheetByName('Crashes');
+  if (!sh) { sh = ss.insertSheet('Crashes'); sh.appendRow(['Time', 'Rep', 'Message', 'Stack', 'Screen', 'Browser']); }
+  sh.appendRow([String(b.at || ''), who.name || '', String(b.message || '').slice(0, 500), String(b.stack || '').slice(0, 2000), String(b.screen || ''), String(b.ua || '').slice(0, 200)]);
+  if (sh.getLastRow() > 501) sh.deleteRows(2, sh.getLastRow() - 501);
+  return { ok: true, message: 'Crash report saved' };
 }
 
 function saveMeasurement(b) {

@@ -26,6 +26,4 @@ export const SPANISH_EXTRA: Record<string, string> = {
   'RELOAD': 'RECARGAR',
   'A new version is ready.': 'Hay una nueva versión disponible.',
   'UPDATE': 'ACTUALIZAR',
-  // Demo login
-  'Demo mode: not connected to the team sheet': 'Modo demo: sin conexión con la hoja del equipo',
 }

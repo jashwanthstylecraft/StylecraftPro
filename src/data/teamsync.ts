@@ -25,16 +25,7 @@ const scriptUrl = () => AppPrefs.teamScriptUrl.get().trim() || CatalogConfig.TEA
 /** Requests whose answer we don't need to read: when the browser blocks the reply (CORS) we still deliver them. */
 const FIRE_AND_FORGET = new Set(['measurement', 'leads'])
 
-// TEMPORARY demo login (remove before going live): user "demo" / password "demo123" signs in without the team sheet.
-// While signed in this way nothing is sent to the team script (leads stay on this browser, documents are unavailable).
-const TEMP_USER = 'demo', TEMP_PASSWORD = 'demo123', TEMP_TOKEN = 'TEMP-LOCAL-SESSION'
-
 async function request(body: TeamJson, readTimeoutMs = 20000): Promise<Reply> {
-  if (AppPrefs.sessionToken.get() === TEMP_TOKEN) {
-    return body.type === 'session'
-      ? { result: { kind: 'ok', message: 'Demo session' }, json: { ok: true } }
-      : { result: { kind: 'failed', reason: 'Demo mode: not connected to the team sheet' }, json: null }
-  }
   const url = scriptUrl()
   if (!url) return { result: { kind: 'notConfigured' }, json: null }
   const payload: TeamJson = { ...body, key: AppPrefs.teamKey.get() }
@@ -81,10 +72,6 @@ export const TeamSync = {
 
   /** Signs a rep in with the user name and password from the "Users" tab. Needs internet the first time. */
   async login(user: string, password: string): Promise<LoginResult> {
-    if (user.trim().toLowerCase() === TEMP_USER && password === TEMP_PASSWORD) { // TEMPORARY demo login
-      AppPrefs.setSession(TEMP_USER, TEMP_TOKEN, false, 'Demo User', '', '')
-      return { kind: 'ok', mustChangePassword: false }
-    }
     const r = await request({ type: 'login', user: user.trim(), token: '', password })
     const j = r.json
     if (r.result.kind === 'ok' && j && String(j.token ?? '') !== '') {
@@ -128,6 +115,11 @@ export const TeamSync = {
     if (noiseDb != null) body.measuredNoiseDb = noiseDb
     if (watts != null) body.measuredWatts = watts
     return post(body)
+  },
+
+  /** Sends a crash report saved on this device (see ErrorBoundary) to the "Crashes" tab. Silent; returns true when delivered. */
+  async sendCrash(report: Record<string, unknown>): Promise<boolean> {
+    return (await post({ type: 'crash', ...report, ua: navigator.userAgent })).kind === 'ok'
   },
 
   /** Adds leads to the "Leads" tab (created automatically). Leads already sent are skipped by the script. */
