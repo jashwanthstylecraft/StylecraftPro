@@ -74,6 +74,7 @@ export function leadFromJson(o: Record<string, unknown>): Lead {
 }
 
 const KEY = 'leads'
+let syncing = false
 function load(): Lead[] {
   try { const a = JSON.parse(ls.get(KEY) ?? '[]'); return Array.isArray(a) ? a.map(leadFromJson) : [] } catch { return [] }
 }
@@ -131,6 +132,23 @@ export const LeadStore = {
       next.push({ ...l, sent: true, photoSyncedAt: r?.modified ?? l.photoSyncedAt })
     }
     LeadStore.all.set(next); persist()
+  },
+
+  /**
+   * Sends leads that were captured offline (or failed to send) to the team sheet. Silent: nothing is shown on failure,
+   * the leads stay unsent and are tried again next time. Returns how many were sent.
+   */
+  async syncPending(products: Product[], send: (leads: Lead[], products: Product[]) => Promise<{ kind: string }>): Promise<number> {
+    if (syncing || (typeof navigator !== 'undefined' && navigator.onLine === false)) return 0
+    const pending = LeadStore.all.get().filter(l => !l.sent)
+    if (!pending.length) return 0
+    syncing = true
+    try {
+      const r = await send(pending, products)
+      if (r.kind !== 'ok') return 0
+      await LeadStore.markSent(pending.map(l => l.id))
+      return pending.length
+    } catch { return 0 } finally { syncing = false }
   },
 
   /** A small JPEG (base64, 160 px) of the profile photo for the sheet, only if it changed since the last upload. */

@@ -8,6 +8,7 @@ import { AccessoryRepository } from './data/accessory'
 import { ComboRepository } from './data/combo'
 import { DocsRepository } from './data/docs'
 import { TeamSync } from './data/teamsync'
+import { LeadStore } from './data/leads'
 import { useLang, t } from './ui/i18n'
 import { ReadableWidth, useIsWide } from './ui/adaptive'
 import { IntroOverlay } from './ui/Intro'
@@ -180,6 +181,18 @@ function useBoot() {
       void import('./vision/VisualRecognizer').then(m => m.VisualRecognizer.prepare(ProductRepository.products.get()))
     })()
   }, [])
+
+  // Ask the browser to keep saved leads and photos (it may otherwise clear site data when the phone is short on space).
+  useEffect(() => { void navigator.storage?.persist?.().catch(() => undefined) }, [])
+
+  // Leads captured offline are sent to the team sheet automatically once the phone is online again.
+  useEffect(() => {
+    if (!signedIn) return
+    const sync = () => { void LeadStore.syncPending(ProductRepository.products.get(), TeamSync.sendLeads) }
+    sync()
+    window.addEventListener('online', sync)
+    return () => window.removeEventListener('online', sync)
+  }, [signedIn])
 
   // Online: make sure the account is still active (a disabled account is signed out). Offline: nothing changes.
   useEffect(() => {
