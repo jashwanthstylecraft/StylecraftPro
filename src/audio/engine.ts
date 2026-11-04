@@ -1,6 +1,6 @@
 import { Store } from '../data/store'
 import {
-  FRAME_SIZE, MedianSmoother, clipperLabels, clipperRpm, dryerRpm, estimateFrequency, findPrincipalFrequency, toPcm16Scale,
+  FRAME_SIZE, MedianSmoother, StableTone, clipperLabels, clipperRpm, dryerRpm, estimateFrequency, findPrincipalFrequency, toPcm16Scale,
   ClipperHealth, ClipperQuality,
 } from './dsp'
 
@@ -57,6 +57,8 @@ class AnalyzerEngine {
   private activeToken = 0
   private session: Session | null = null
   private smoother = new MedianSmoother(5)
+  /** Only a steady pitch counts as a motor (see StableTone). */
+  private tone = new StableTone(4, 0.03, 0.04)
 
   private patch(p: Partial<UnifiedState>) { this.state.set({ ...this.state.get(), ...p }) }
 
@@ -163,6 +165,7 @@ class AnalyzerEngine {
     const mode = this.state.get().mode
     const token = ++this.activeToken
     this.smoother.clear()
+    this.tone.clear()
     this.patch({ isRunning: true, status: 'LISTENING...', displayedValue: 0 })
 
     // The analysis of one frame takes a few ms; if the page is busy, drop the oldest frames instead of lagging behind.
@@ -219,21 +222,30 @@ class AnalyzerEngine {
   }
 
   private processClipper(hz: number, quality: number) {
-    if (hz <= 0) {
+    const tone = this.tone.push(hz, quality)
+    if (hz <= 0 || tone.state === 'collecting') {
       this.patch({ displayedValue: 0, clipperHealth: 'Waiting', clipperQuality: 'None' })
       return
     }
-    const rpm = this.smoother.push(clipperRpm(hz))
+    // Sound is present but it is not one steady motor pitch (voices, music, other tools): show no number.
+    if (tone.state === 'unstable') {
+      this.smoother.clear()
+      this.patch({ displayedValue: 0, clipperHealth: 'TOO NOISY', clipperQuality: 'Weak' })
+      return
+    }
+    const rpm = this.smoother.push(clipperRpm(tone.hz))
     const { health, strength } = clipperLabels(quality)
     this.patch({ displayedValue: rpm, clipperHealth: health, clipperQuality: strength })
   }
 
   private processDryer(hz: number, quality: number) {
-    if (hz <= 0) {
+    const tone = this.tone.push(hz, quality)
+    if (hz <= 0 || tone.state !== 'locked') {
+      this.smoother.clear()
       this.patch({ displayedValue: 0, dryerSignalQuality: 0 })
       return
     }
-    const rpm = this.smoother.push(dryerRpm(hz, this.state.get().dryerBladeCount))
+    const rpm = this.smoother.push(dryerRpm(tone.hz, this.state.get().dryerBladeCount))
     this.patch({ displayedValue: rpm, dryerSignalQuality: quality })
   }
 }

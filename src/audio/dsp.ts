@@ -177,6 +177,26 @@ export class MedianSmoother {
   }
 }
 
+/**
+ * Rejects sounds that are not a running motor. A trimmer / clipper / dryer motor holds one steady pitch, while voices,
+ * music, tapping and passing noise move around. A reading is only accepted when the last `size` frames (about 0.2 s each)
+ * all found the same pitch within `tolerance` and had a clear peak.
+ */
+export type ToneState = 'collecting' | 'locked' | 'unstable'
+export class StableTone {
+  private recent: number[] = []
+  constructor(private size = 4, private tolerance = 0.03, private minQuality = 0.04) {}
+  clear() { this.recent = [] }
+  push(hz: number, quality: number): { hz: number; state: ToneState } {
+    this.recent.push(hz > 0 && quality >= this.minQuality ? hz : 0)
+    while (this.recent.length > this.size) this.recent.shift()
+    if (this.recent.length < this.size) return { hz: 0, state: 'collecting' }
+    const lo = Math.min(...this.recent), hi = Math.max(...this.recent)
+    if (lo <= 0 || hi / lo > 1 + this.tolerance) return { hz: 0, state: 'unstable' }
+    return { hz: [...this.recent].sort((a, b) => a - b)[Math.trunc(this.size / 2)], state: 'locked' }
+  }
+}
+
 export type ClipperHealth = 'Waiting' | 'CLEAN SIGNAL' | 'GOOD SIGNAL' | 'WEAK SIGNAL' | 'TOO NOISY'
 export type ClipperQuality = 'None' | 'Strong' | 'Medium' | 'Weak'
 
